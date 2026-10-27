@@ -1,0 +1,338 @@
+[
+  {
+    "term_id": "mosque",
+    "en": "Mosque",
+    "fr": "Mosquée",
+    "ar": "مسجد",
+    "definition_en": "A Muslim place of congregational or daily prayer.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "congregational_mosque",
+    "en": "Congregational mosque",
+    "fr": "Mosquée du vendredi",
+    "ar": "مسجد جامع",
+    "definition_en": "A mosque intended for communal Friday worship.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "foundation_date",
+    "en": "Foundation date",
+    "fr": "Date de fondation",
+    "ar": "تاريخ التأسيس",
+    "definition_en": "Earliest documented establishment of the mosque institution or building, not the age of an earlier site.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "present_structure",
+    "en": "Present structure",
+    "fr": "Structure architecturale actuelle",
+    "ar": "البنية المعمارية الحالية",
+    "definition_en": "Principal surviving architectural fabric, which may postdate the foundation.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "construction_phase",
+    "en": "Construction phase",
+    "fr": "Phase de construction",
+    "ar": "مرحلة بناء",
+    "definition_en": "An identifiable building, extension or reconstruction event.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "reconstruction",
+    "en": "Reconstruction",
+    "fr": "Reconstruction",
+    "ar": "إعادة البناء",
+    "definition_en": "Building again after destruction, demolition or extensive alteration.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "restoration",
+    "en": "Restoration",
+    "fr": "Restauration",
+    "ar": "ترميم",
+    "definition_en": "Work undertaken to conserve or repair architectural heritage.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "extension",
+    "en": "Extension",
+    "fr": "Agrandissement",
+    "ar": "توسعة",
+    "definition_en": "Addition to the size or footprint of an existing mosque.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "change_of_use",
+    "en": "Change of use",
+    "fr": "Changement d’usage",
+    "ar": "تغيير الاستعمال",
+    "definition_en": "Change in the function of the historical building.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "multi_period",
+    "en": "Multi-period structure",
+    "fr": "Structure pluristratifiée",
+    "ar": "بنية متعددة المراحل التاريخية",
+    "definition_en": "Surviving building incorporates major fabric from multiple eras.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "dating_uncertain",
+    "en": "Dating uncertain",
+    "fr": "Datation incertaine",
+    "ar": "تأريخ غير مؤكد",
+    "definition_en": "Historical date is not sufficiently established.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "disputed",
+    "en": "Disputed",
+    "fr": "Objet de divergences",
+    "ar": "محل خلاف",
+    "definition_en": "Credible sources give materially different statements.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "verified",
+    "en": "Documented",
+    "fr": "Documenté",
+    "ar": "موثّق",
+    "definition_en": "Claim supported by identified and applicable evidence.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "hypostyle",
+    "en": "Hypostyle hall",
+    "fr": "Salle hypostyle",
+    "ar": "قاعة متعددة الأعمدة",
+    "definition_en": "Hall in which the roof is supported by numerous columns.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "prayer_hall",
+    "en": "Prayer hall",
+    "fr": "Salle de prière",
+    "ar": "قاعة الصلاة",
+    "definition_en": "Space used for communal prayer.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "sahn",
+    "en": "Sahn (courtyard)",
+    "fr": "Sahn (cour)",
+    "ar": "صحن",
+    "definition_en": "Open courtyard within a mosque complex.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "riwaq",
+    "en": "Riwaq (arcade)",
+    "fr": "Riwaq (portique)",
+    "ar": "رواق",
+    "definition_en": "Roofed passage or portico opening onto a court or space.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "iwan",
+    "en": "Iwan",
+    "fr": "Iwan",
+    "ar": "إيوان",
+    "definition_en": "Vaulted rectangular hall open on one side.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "four_iwan_plan",
+    "en": "Four-iwan plan",
+    "fr": "Plan à quatre iwans",
+    "ar": "تخطيط بأربعة إيوانات",
+    "definition_en": "Courtyard arrangement with four iwans.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "mihrab",
+    "en": "Mihrab",
+    "fr": "Mihrab",
+    "ar": "محراب",
+    "definition_en": "Niche or architectural feature marking the qibla direction.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "minbar",
+    "en": "Minbar",
+    "fr": "Minbar",
+    "ar": "منبر",
+    "definition_en": "Pulpit or raised structure for Friday sermons.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "minaret",
+    "en": "Minaret",
+    "fr": "Minaret",
+    "ar": "مئذنة",
+    "definition_en": "Tower associated with the mosque, historically linked with the call to prayer.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "dome",
+    "en": "Dome",
+    "fr": "Coupole",
+    "ar": "قبة",
+    "definition_en": "Curved vaulted roof form.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "qibla",
+    "en": "Qibla",
+    "fr": "Qibla",
+    "ar": "قبلة",
+    "definition_en": "Direction of prayer towards the Kaaba in Mecca.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "maqsura",
+    "en": "Maqsura",
+    "fr": "Maqsura",
+    "ar": "مقصورة",
+    "definition_en": "Historically designated, sometimes screened, space within certain mosques.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "muqarnas",
+    "en": "Muqarnas",
+    "fr": "Muqarnas",
+    "ar": "مقرنصات",
+    "definition_en": "Three-dimensional cellular ornamental vaulting.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "zellij",
+    "en": "Zellij",
+    "fr": "Zellige",
+    "ar": "زليج",
+    "definition_en": "Geometric cut-tile mosaic decoration especially associated with North Africa.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "stucco",
+    "en": "Stucco",
+    "fr": "Stuc",
+    "ar": "جص زخرفي",
+    "definition_en": "Applied plaster used for architectural surfaces and carving.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "earthen_architecture",
+    "en": "Earthen architecture",
+    "fr": "Architecture de terre",
+    "ar": "العمارة الترابية",
+    "definition_en": "Construction using earth-based materials.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "patron",
+    "en": "Patron",
+    "fr": "Commanditaire",
+    "ar": "راعي البناء",
+    "definition_en": "Person or institution commissioning or financing a building.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "architectural_plan",
+    "en": "Architectural plan",
+    "fr": "Plan architectural",
+    "ar": "مخطط معماري",
+    "definition_en": "Measured or interpretive drawing of spatial arrangement.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "elevation",
+    "en": "Elevation",
+    "fr": "Élévation",
+    "ar": "مسقط واجهة",
+    "definition_en": "Orthographic drawing of a vertical façade.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "section",
+    "en": "Section",
+    "fr": "Coupe",
+    "ar": "مقطع",
+    "definition_en": "Cutaway architectural drawing showing internal geometry.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "viewer_3d",
+    "en": "3D model viewer",
+    "fr": "Visionneuse de modèle 3D",
+    "ar": "عارض النماذج ثلاثية الأبعاد",
+    "definition_en": "Interactive browser display of an administrator-supplied three-dimensional model.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "measured_model",
+    "en": "Measured 3D model",
+    "fr": "Modèle 3D relevé",
+    "ar": "نموذج ثلاثي الأبعاد موثّق بالقياسات",
+    "definition_en": "Model whose scale and elements derive from verifiable measurements.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "hypothetical_reconstruction",
+    "en": "Hypothetical reconstruction",
+    "fr": "Restitution hypothétique",
+    "ar": "إعادة تصور افتراضية",
+    "definition_en": "Visual interpretation not fully documented by direct evidence.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "visitor_view",
+    "en": "Visitor View",
+    "fr": "Vue Visiteur",
+    "ar": "وضع الزائر",
+    "definition_en": "Accessible presentation of verified core content.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "research_view",
+    "en": "Research View",
+    "fr": "Vue Recherche",
+    "ar": "وضع البحث العلمي",
+    "definition_en": "Detailed dossier with phase chronology and claim-level citations.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "world_heritage_property",
+    "en": "World Heritage property",
+    "fr": "Bien du patrimoine mondial",
+    "ar": "ممتلك مدرج في قائمة التراث العالمي",
+    "definition_en": "UNESCO inscribed property; does not automatically mean every component has a separate inscription.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "tentative_list",
+    "en": "Tentative List",
+    "fr": "Liste indicative",
+    "ar": "القائمة الإرشادية",
+    "definition_en": "State nomination planning list, not World Heritage inscription.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "provenance",
+    "en": "Provenance",
+    "fr": "Provenance",
+    "ar": "المصدر والأصل",
+    "definition_en": "Documented origin and authorship of a claim, image or model.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  },
+  {
+    "term_id": "publication_ready",
+    "en": "Publication-ready",
+    "fr": "Prêt à publier",
+    "ar": "جاهز للنشر",
+    "definition_en": "Record has passed the defined approval checks for the specified publication scope.",
+    "review_status": "editorial_harmonized_native_review_pending"
+  }
+]

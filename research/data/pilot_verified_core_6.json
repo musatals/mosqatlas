@@ -1,0 +1,1159 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "id": "MOS-0001",
+    "slug": "great-mosque-kairouan",
+    "names": {
+      "en": "Great Mosque of Kairouan",
+      "fr": "Grande Mosquée de Kairouan",
+      "ar": "الجامع الكبير بالقيروان",
+      "original": {
+        "value": "جامع عقبة بن نافع",
+        "language": "ar"
+      }
+    },
+    "location": {
+      "city": "Kairouan",
+      "country": "Tunisia",
+      "country_iso2": "TN",
+      "coordinates": null
+    },
+    "chronology": {
+      "foundation": {
+        "display": "670 CE",
+        "start_year": 670,
+        "end_year": 670,
+        "precision": "year",
+        "certainty": "documented",
+        "event_type": "foundation",
+        "source_ids": [
+          "SRC-KAI-SMART"
+        ],
+        "sort_year": 670
+      },
+      "present_structure": {
+        "display": "Primarily ninth century (rebuilding begun 836)",
+        "start_year": 836,
+        "end_year": 875,
+        "precision": "range",
+        "certainty": "documented",
+        "event_type": "major_surviving_phase",
+        "source_ids": [
+          "SRC-KAI-UNESCO",
+          "SRC-KAI-SMART"
+        ],
+        "sort_year": null
+      },
+      "phases": [
+        {
+          "id": "PH-MOS-0001-01",
+          "event_type": "foundation",
+          "display_date": "670",
+          "start_year": 670,
+          "end_year": 670,
+          "description_en": "Friday mosque founded by Uqba ibn Nafi according to scholarly interpretation.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-KAI-SMART"
+          ]
+        },
+        {
+          "id": "PH-MOS-0001-02",
+          "event_type": "reconstruction",
+          "display_date": "836 onward; ninth century",
+          "start_year": 836,
+          "end_year": 875,
+          "description_en": "Major Aghlabid rebuilding, followed by further ninth-century interventions.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-KAI-SMART",
+            "SRC-KAI-UNESCO"
+          ]
+        }
+      ]
+    },
+    "architectural_profile": {
+      "traditions": [
+        "early_islamic",
+        "aghlabid",
+        "maghrebi"
+      ],
+      "typologies": [
+        "hypostyle",
+        "courtyard"
+      ],
+      "materials": [
+        "stone",
+        "brick",
+        "timber"
+      ],
+      "elements": [
+        "minaret",
+        "courtyard",
+        "prayer_hall",
+        "mihrab"
+      ]
+    },
+    "heritage": {
+      "relationship": "within_inscribed_property",
+      "designation_name": "Kairouan",
+      "inscription_year": 1988,
+      "unesco_property_id": "499",
+      "source_ids": [
+        "SRC-KAI-UNESCO"
+      ],
+      "context_note": "The Great Mosque is within the inscribed city property, not a separately inscribed World Heritage property."
+    },
+    "content": {
+      "en": {
+        "intro": "A landmark of early Islamic architecture in North Africa, founded in the seventh century and substantially rebuilt during the Aghlabid period.",
+        "history": "The early foundation dates to 670, while much of the visible architecture is ninth-century Aghlabid work.",
+        "architecture": "The layout combines a porticoed courtyard, a hypostyle prayer hall and a monumental square minaret."
+      },
+      "fr": {
+        "intro": "Un monument majeur de l’architecture islamique en Afrique du Nord, fondé au VIIe siècle et largement reconstruit à l’époque aghlabide.",
+        "history": "La fondation remonte à 670, tandis que l’essentiel de l’architecture conservée date des reconstructions aghlabides du IXe siècle.",
+        "architecture": "Le plan associe une cour bordée de portiques, une salle de prière hypostyle et un monumental minaret de plan carré."
+      },
+      "ar": {
+        "intro": "معلم بارز للعمارة الإسلامية في شمال إفريقيا، تأسس في القرن السابع وأُعيد بناؤه إلى حد كبير خلال العهد الأغلبي.",
+        "history": "تعود النشأة الأولى إلى سنة 670، بينما ترجع معظم العمارة القائمة إلى القرن التاسع في العهد الأغلبي.",
+        "architecture": "يجمع التخطيط بين صحن تحيط به الأروقة وقاعة صلاة متعددة الأعمدة ومئذنة مربعة ضخمة."
+      }
+    },
+    "claims": [
+      {
+        "id": "CLM-P01-01",
+        "statement_en": "A congregational mosque was founded at Kairouan in 670.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-KAI-SMART"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P01-02",
+        "statement_en": "The mosque visible today is principally a ninth-century rebuilding.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-KAI-SMART",
+          "SRC-KAI-UNESCO"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P01-03",
+        "statement_en": "The present plan includes a hypostyle prayer hall and a square three-storey minaret.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-KAI-UNESCO"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P01-04",
+        "statement_en": "The mosque belongs to the UNESCO-listed Kairouan property, inscribed in 1988.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-KAI-UNESCO"
+        ],
+        "review_note": null
+      }
+    ],
+    "source_ids": [
+      "SRC-KAI-UNESCO",
+      "SRC-KAI-SMART"
+    ],
+    "media": [],
+    "model_3d": null,
+    "editorial": {
+      "approval": "editorial_core_fact_checked",
+      "approved_scope": "limited_verified_core",
+      "scholarly_peer_review": "pending",
+      "fr_ar_translation_review": "pending",
+      "approved_on": "2026-10-27",
+      "image_license_status": "no_reuse_cleared",
+      "model_validation": "not_applicable",
+      "visitor_access": "not_verified"
+    },
+    "provenance": {
+      "legacy_id": "MOS-0001",
+      "legacy_dataset": "Phase 6 crosswalk"
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "MOS-0004",
+    "slug": "mosque-cathedral-cordoba",
+    "names": {
+      "en": "Mosque–Cathedral of Córdoba",
+      "fr": "Mosquée-cathédrale de Cordoue",
+      "ar": "مسجد قرطبة الجامع – الكاتدرائية",
+      "original": {
+        "value": "Mezquita-Catedral de Córdoba",
+        "language": "es"
+      }
+    },
+    "location": {
+      "city": "Córdoba",
+      "country": "Spain",
+      "country_iso2": "ES",
+      "coordinates": null
+    },
+    "chronology": {
+      "foundation": {
+        "display": "786–788 CE (original mosque)",
+        "start_year": 786,
+        "end_year": 788,
+        "precision": "range",
+        "certainty": "documented",
+        "event_type": "foundation",
+        "source_ids": [
+          "SRC-COR-OFFICIAL"
+        ],
+        "sort_year": 786
+      },
+      "present_structure": {
+        "display": "Multi-period: 8th–16th centuries",
+        "start_year": null,
+        "end_year": null,
+        "precision": "multi_period",
+        "certainty": "documented",
+        "event_type": "surviving_multi_period_structure",
+        "source_ids": [
+          "SRC-COR-OFFICIAL",
+          "SRC-COR-UNESCO"
+        ],
+        "sort_year": null
+      },
+      "phases": [
+        {
+          "id": "PH-MOS-0004-01",
+          "event_type": "initial_construction",
+          "display_date": "786–788",
+          "start_year": 786,
+          "end_year": 788,
+          "description_en": "Original congregational mosque built during Abd al-Rahman I.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-COR-OFFICIAL"
+          ]
+        },
+        {
+          "id": "PH-MOS-0004-02",
+          "event_type": "extension",
+          "display_date": "833–848",
+          "start_year": 833,
+          "end_year": 848,
+          "description_en": "First substantial extension under Abd al-Rahman II.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-COR-OFFICIAL"
+          ]
+        },
+        {
+          "id": "PH-MOS-0004-03",
+          "event_type": "extension",
+          "display_date": "962–966",
+          "start_year": 962,
+          "end_year": 966,
+          "description_en": "Expansion under al-Hakam II.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-COR-OFFICIAL"
+          ]
+        },
+        {
+          "id": "PH-MOS-0004-04",
+          "event_type": "extension",
+          "display_date": "991–994",
+          "start_year": 991,
+          "end_year": 994,
+          "description_en": "Eastward enlargement under Almanzor.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-COR-OFFICIAL"
+          ]
+        },
+        {
+          "id": "PH-MOS-0004-05",
+          "event_type": "change_of_use",
+          "display_date": "1236",
+          "start_year": 1236,
+          "end_year": 1236,
+          "description_en": "Consecration as a Catholic cathedral.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-COR-UNESCO"
+          ]
+        },
+        {
+          "id": "PH-MOS-0004-06",
+          "event_type": "reconstruction",
+          "display_date": "1523–1599",
+          "start_year": 1523,
+          "end_year": 1599,
+          "description_en": "Major Renaissance interventions in the present building.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-COR-UNESCO"
+          ]
+        }
+      ]
+    },
+    "architectural_profile": {
+      "traditions": [
+        "umayyad_andalusi",
+        "gothic",
+        "renaissance"
+      ],
+      "typologies": [
+        "hypostyle",
+        "adapted_religious_building"
+      ],
+      "materials": [
+        "stone",
+        "brick",
+        "timber"
+      ],
+      "elements": [
+        "double_arches",
+        "courtyard",
+        "mihrab",
+        "cathedral_transept"
+      ]
+    },
+    "heritage": {
+      "relationship": "original_inscription_later_extended",
+      "designation_name": "Historic Centre of Cordoba",
+      "inscription_year": 1984,
+      "unesco_property_id": "313",
+      "source_ids": [
+        "SRC-COR-UNESCO"
+      ],
+      "context_note": "Mosque inscribed in 1984; property enlarged and renamed Historic Centre of Cordoba in 1994."
+    },
+    "content": {
+      "en": {
+        "intro": "An exceptional multi-period monument preserving successive Islamic mosque phases alongside later Christian cathedral architecture.",
+        "history": "The original mosque dates to 786–788; major enlargements preceded its conversion into a cathedral in 1236.",
+        "architecture": "Its famous double arches, hypostyle spaces and later Renaissance interventions belong to different historical phases."
+      },
+      "fr": {
+        "intro": "Un monument exceptionnel associant plusieurs phases de l’ancienne mosquée islamique à l’architecture de la cathédrale chrétienne.",
+        "history": "La mosquée d’origine fut construite entre 786 et 788 puis agrandie avant sa transformation en cathédrale en 1236.",
+        "architecture": "Les arcs superposés, les espaces hypostyles et les transformations de la Renaissance témoignent de plusieurs phases architecturales."
+      },
+      "ar": {
+        "intro": "معلم معماري متعدد المراحل يجمع بين توسعات المسجد التاريخي وعناصر الكاتدرائية المسيحية اللاحقة.",
+        "history": "بُني المسجد الأصلي بين عامَي 786 و788، وتوسّع خلال القرنين التاسع والعاشر، ثم صار كاتدرائية سنة 1236.",
+        "architecture": "تعود الأقواس المزدوجة والفضاءات متعددة الأعمدة والإضافات من عصر النهضة إلى مراحل تاريخية مختلفة."
+      }
+    },
+    "claims": [
+      {
+        "id": "CLM-P04-01",
+        "statement_en": "The original mosque was constructed in 786–788 under Abd al-Rahman I.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-COR-OFFICIAL"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P04-02",
+        "statement_en": "Large enlargements took place in the ninth and tenth centuries.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-COR-OFFICIAL"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P04-03",
+        "statement_en": "The monument has functioned as a Catholic cathedral since 1236.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-COR-UNESCO"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P04-04",
+        "statement_en": "Major Renaissance alterations occurred between 1523 and 1599.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-COR-UNESCO"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P04-05",
+        "statement_en": "The Mosque of Cordoba was inscribed in 1984; the World Heritage property was extended in 1994.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-COR-UNESCO"
+        ],
+        "review_note": null
+      }
+    ],
+    "source_ids": [
+      "SRC-COR-OFFICIAL",
+      "SRC-COR-UNESCO"
+    ],
+    "media": [],
+    "model_3d": null,
+    "editorial": {
+      "approval": "editorial_core_fact_checked",
+      "approved_scope": "limited_verified_core",
+      "scholarly_peer_review": "pending",
+      "fr_ar_translation_review": "pending",
+      "approved_on": "2026-10-27",
+      "image_license_status": "no_reuse_cleared",
+      "model_validation": "not_applicable",
+      "visitor_access": "not_verified"
+    },
+    "provenance": {
+      "legacy_id": "MOS-0004",
+      "legacy_dataset": "Phase 6 crosswalk"
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "MOS-0003",
+    "slug": "jameh-mosque-isfahan",
+    "names": {
+      "en": "Jameh Mosque of Isfahan",
+      "fr": "Mosquée du vendredi d’Ispahan",
+      "ar": "الجامع الكبير بأصفهان",
+      "original": {
+        "value": "مسجد جامع اصفهان",
+        "language": "fa"
+      }
+    },
+    "location": {
+      "city": "Isfahan",
+      "country": "Iran",
+      "country_iso2": "IR",
+      "coordinates": null
+    },
+    "chronology": {
+      "foundation": {
+        "display": "Early Islamic period (exact year unverified)",
+        "start_year": null,
+        "end_year": null,
+        "precision": "period",
+        "certainty": "uncertain",
+        "event_type": "foundation",
+        "source_ids": [
+          "SRC-ISF-UNESCO"
+        ],
+        "sort_year": null
+      },
+      "present_structure": {
+        "display": "Multi-period, with major Seljuk elements",
+        "start_year": null,
+        "end_year": null,
+        "precision": "multi_period",
+        "certainty": "documented",
+        "event_type": "surviving_multi_period_structure",
+        "source_ids": [
+          "SRC-ISF-UNESCO"
+        ],
+        "sort_year": null
+      },
+      "phases": [
+        {
+          "id": "PH-MOS-0003-01",
+          "event_type": "early_foundation",
+          "display_date": "Early Islamic period",
+          "start_year": null,
+          "end_year": null,
+          "description_en": "An earlier mosque occupied the site; exact founding year not fixed by this source.",
+          "certainty": "uncertain",
+          "source_ids": [
+            "SRC-ISF-UNESCO"
+          ]
+        },
+        {
+          "id": "PH-MOS-0003-02",
+          "event_type": "extension",
+          "display_date": "Seljuk period",
+          "start_year": null,
+          "end_year": null,
+          "description_en": "Domes and four-iwan plan strongly associated with Seljuk expansion.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-ISF-UNESCO"
+          ]
+        },
+        {
+          "id": "PH-MOS-0003-03",
+          "event_type": "modification",
+          "display_date": "Later Islamic periods",
+          "start_year": null,
+          "end_year": null,
+          "description_en": "Further additions and decorative programs through subsequent dynasties.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-ISF-UNESCO"
+          ]
+        }
+      ]
+    },
+    "architectural_profile": {
+      "traditions": [
+        "iranian",
+        "seljuk",
+        "ilkhanid",
+        "timurid",
+        "safavid"
+      ],
+      "typologies": [
+        "four_iwan",
+        "courtyard",
+        "congregational"
+      ],
+      "materials": [
+        "brick",
+        "tile"
+      ],
+      "elements": [
+        "four_iwans",
+        "domes",
+        "courtyard"
+      ]
+    },
+    "heritage": {
+      "relationship": "individually_inscribed",
+      "designation_name": "Masjed-e Jāmé of Isfahan",
+      "inscription_year": 2012,
+      "unesco_property_id": "1397",
+      "source_ids": [
+        "SRC-ISF-UNESCO"
+      ],
+      "context_note": null
+    },
+    "content": {
+      "en": {
+        "intro": "A living architectural record of Iranian mosque design, notable for its four-iwan courtyard and Seljuk domes.",
+        "history": "The complex underwent successive transformations across many dynastic periods; its exact earliest foundation remains unconfirmed here.",
+        "architecture": "The four-iwan arrangement, two domes and layered brick and tile decoration document architectural innovation over time."
+      },
+      "fr": {
+        "intro": "Un témoignage majeur de l’évolution des mosquées iraniennes, remarquable par sa cour à quatre iwans et ses coupoles seldjoukides.",
+        "history": "Le complexe a connu de nombreuses transformations dynastiques ; l’année exacte de sa fondation la plus ancienne n’est pas établie ici.",
+        "architecture": "La cour à quatre iwans, les deux coupoles et les décors de brique et de céramique témoignent d’innovations successives."
+      },
+      "ar": {
+        "intro": "سجل معماري بارز لتطور المساجد الإيرانية، يتميز بصحن ذي أربعة إيوانات وقباب سلجوقية.",
+        "history": "شهد المجمع تحولات متعاقبة على امتداد عصور متعددة، ولم يُحسم هنا تاريخ تأسيسه الأول بدقة.",
+        "architecture": "يوثق تخطيط الإيوانات الأربعة والقبتان والزخارف الآجرية والخزفية تطورات معمارية متعاقبة."
+      }
+    },
+    "claims": [
+      {
+        "id": "CLM-P03-01",
+        "statement_en": "The monument illustrates approximately twelve centuries of Islamic architecture.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-ISF-UNESCO"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P03-02",
+        "statement_en": "The four-iwan layout and two major domes are central Seljuk-era contributions.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-ISF-UNESCO"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P03-03",
+        "statement_en": "The Jameh Mosque of Isfahan was individually inscribed on UNESCO’s World Heritage List in 2012.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-ISF-UNESCO"
+        ],
+        "review_note": null
+      }
+    ],
+    "source_ids": [
+      "SRC-ISF-UNESCO"
+    ],
+    "media": [],
+    "model_3d": null,
+    "editorial": {
+      "approval": "editorial_core_fact_checked",
+      "approved_scope": "limited_verified_core",
+      "scholarly_peer_review": "pending",
+      "fr_ar_translation_review": "pending",
+      "approved_on": "2026-10-27",
+      "image_license_status": "no_reuse_cleared",
+      "model_validation": "not_applicable",
+      "visitor_access": "not_verified"
+    },
+    "provenance": {
+      "legacy_id": "MOS-0003",
+      "legacy_dataset": "Phase 6 crosswalk"
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "MOS-0101",
+    "slug": "great-mosque-djenne",
+    "names": {
+      "en": "Great Mosque of Djenné",
+      "fr": "Grande Mosquée de Djenné",
+      "ar": "الجامع الكبير في جينيه",
+      "original": {
+        "value": "Grande Mosquée de Djenné",
+        "language": "fr"
+      }
+    },
+    "location": {
+      "city": "Djenné",
+      "country": "Mali",
+      "country_iso2": "ML",
+      "coordinates": null
+    },
+    "chronology": {
+      "foundation": {
+        "display": "Traditionally 13th century; not securely dated",
+        "start_year": null,
+        "end_year": null,
+        "precision": "traditional_century",
+        "certainty": "traditional",
+        "event_type": "foundation",
+        "source_ids": [
+          "SRC-DJE-SMART"
+        ],
+        "sort_year": null
+      },
+      "present_structure": {
+        "display": "1906–1907 reconstruction",
+        "start_year": 1906,
+        "end_year": 1907,
+        "precision": "range",
+        "certainty": "documented",
+        "event_type": "complete_reconstruction",
+        "source_ids": [
+          "SRC-DJE-UNESCO",
+          "SRC-DJE-SMART"
+        ],
+        "sort_year": null
+      },
+      "phases": [
+        {
+          "id": "PH-MOS-0101-01",
+          "event_type": "early_foundation",
+          "display_date": "Traditionally 13th century",
+          "start_year": null,
+          "end_year": null,
+          "description_en": "An early mosque is traditionally associated with the thirteenth century; not archaeologically established by these sources.",
+          "certainty": "traditional",
+          "source_ids": [
+            "SRC-DJE-SMART"
+          ]
+        },
+        {
+          "id": "PH-MOS-0101-02",
+          "event_type": "reconstruction",
+          "display_date": "1834–1836",
+          "start_year": 1834,
+          "end_year": 1836,
+          "description_en": "Earlier replacement mosque documented in scholarly account.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-DJE-SMART"
+          ]
+        },
+        {
+          "id": "PH-MOS-0101-03",
+          "event_type": "reconstruction",
+          "display_date": "1906–1907",
+          "start_year": 1906,
+          "end_year": 1907,
+          "description_en": "Present earthen mosque reconstructed.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-DJE-UNESCO",
+            "SRC-DJE-SMART"
+          ]
+        }
+      ]
+    },
+    "architectural_profile": {
+      "traditions": [
+        "sudano_sahelian"
+      ],
+      "typologies": [
+        "courtyard",
+        "earthen_monument"
+      ],
+      "materials": [
+        "earth",
+        "mud_plaster",
+        "timber"
+      ],
+      "elements": [
+        "buttresses",
+        "toron",
+        "facade_towers"
+      ]
+    },
+    "heritage": {
+      "relationship": "within_inscribed_property",
+      "designation_name": "Old Towns of Djenné",
+      "inscription_year": 1988,
+      "unesco_property_id": "116",
+      "source_ids": [
+        "SRC-DJE-UNESCO"
+      ],
+      "context_note": "Serial World Heritage urban property; on the List of World Heritage in Danger since 2016."
+    },
+    "content": {
+      "en": {
+        "intro": "A major monument of Sudano-Sahelian earthen architecture whose present form dates from the 1906–1907 reconstruction.",
+        "history": "An earlier mosque is traditionally linked to the thirteenth century, but the date is not securely documented.",
+        "architecture": "Earthen masonry, projecting timber supports and recurring community maintenance are key to its architectural identity."
+      },
+      "fr": {
+        "intro": "Un grand monument d’architecture de terre soudano-sahélienne, dont l’aspect actuel résulte de la reconstruction de 1906–1907.",
+        "history": "Une mosquée antérieure est traditionnellement rattachée au XIIIe siècle, sans preuve définitive pour cette datation.",
+        "architecture": "La maçonnerie de terre, les éléments de bois saillants et l’entretien communautaire régulier caractérisent le monument."
+      },
+      "ar": {
+        "intro": "معلم بارز للعمارة الطينية في منطقة السودان والساحل الإفريقي، يعود شكله الحالي إلى إعادة البناء بين عامَي 1906 و1907.",
+        "history": "تُنسب نشأة المسجد القديم تقليدياً إلى القرن الثالث عشر، دون توثيق قاطع لهذا التاريخ.",
+        "architecture": "تشكل الجدران الطينية والأخشاب البارزة والصيانة الجماعية المتكررة خصائص أساسية للمبنى."
+      }
+    },
+    "claims": [
+      {
+        "id": "CLM-P101-01",
+        "statement_en": "The present Great Mosque was reconstructed in 1906–1907.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-DJE-UNESCO",
+          "SRC-DJE-SMART"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P101-02",
+        "statement_en": "The monument uses local earthen building traditions and requires periodic maintenance.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-DJE-UNESCO",
+          "SRC-DJE-SMART"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P101-03",
+        "statement_en": "Its early thirteenth-century foundation is described as traditional or legendary rather than proven.",
+        "certainty": "traditional",
+        "source_ids": [
+          "SRC-DJE-SMART"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P101-04",
+        "statement_en": "The UNESCO-listed Old Towns of Djenné property includes the mosque and has been on the World Heritage in Danger List since 2016.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-DJE-UNESCO"
+        ],
+        "review_note": null
+      }
+    ],
+    "source_ids": [
+      "SRC-DJE-UNESCO",
+      "SRC-DJE-SMART"
+    ],
+    "media": [],
+    "model_3d": null,
+    "editorial": {
+      "approval": "editorial_core_fact_checked",
+      "approved_scope": "limited_verified_core",
+      "scholarly_peer_review": "pending",
+      "fr_ar_translation_review": "pending",
+      "approved_on": "2026-10-27",
+      "image_license_status": "no_reuse_cleared",
+      "model_validation": "not_applicable",
+      "visitor_access": "not_verified"
+    },
+    "provenance": {
+      "legacy_id": null,
+      "legacy_dataset": "Phase 7 research addition"
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "MOS-0017",
+    "slug": "sultan-mosque-singapore",
+    "names": {
+      "en": "Sultan Mosque",
+      "fr": "Mosquée du Sultan",
+      "ar": "مسجد السلطان",
+      "original": {
+        "value": "Masjid Sultan",
+        "language": "ms"
+      }
+    },
+    "location": {
+      "city": "Singapore",
+      "country": "Singapore",
+      "country_iso2": "SG",
+      "coordinates": null
+    },
+    "chronology": {
+      "foundation": {
+        "display": "1824–1826 (original mosque)",
+        "start_year": 1824,
+        "end_year": 1826,
+        "precision": "range",
+        "certainty": "documented",
+        "event_type": "foundation",
+        "source_ids": [
+          "SRC-SIN-NLB",
+          "SRC-SIN-NHB"
+        ],
+        "sort_year": 1824
+      },
+      "present_structure": {
+        "display": "Rebuilt 1925–1932; completion reported as 1928 or 1932",
+        "start_year": 1925,
+        "end_year": 1932,
+        "precision": "range",
+        "certainty": "disputed",
+        "event_type": "complete_reconstruction",
+        "source_ids": [
+          "SRC-SIN-NLB",
+          "SRC-SIN-NHB"
+        ],
+        "sort_year": null
+      },
+      "phases": [
+        {
+          "id": "PH-MOS-0017-01",
+          "event_type": "initial_construction",
+          "display_date": "1824–1826",
+          "start_year": 1824,
+          "end_year": 1826,
+          "description_en": "Original mosque erected under Sultan Hussein Shah.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-SIN-NLB",
+            "SRC-SIN-NHB"
+          ]
+        },
+        {
+          "id": "PH-MOS-0017-02",
+          "event_type": "reconstruction",
+          "display_date": "1925–1932; completion disputed",
+          "start_year": 1925,
+          "end_year": 1932,
+          "description_en": "Replacement building designed by Denis Santry; museum says 1928, national library says 1932.",
+          "certainty": "disputed",
+          "source_ids": [
+            "SRC-SIN-NHB",
+            "SRC-SIN-NLB"
+          ]
+        },
+        {
+          "id": "PH-MOS-0017-03",
+          "event_type": "heritage_designation",
+          "display_date": "1975",
+          "start_year": 1975,
+          "end_year": 1975,
+          "description_en": "Designated a Singapore national monument.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-SIN-NLB"
+          ]
+        }
+      ]
+    },
+    "architectural_profile": {
+      "traditions": [
+        "indo_saracenic",
+        "singapore_colonial"
+      ],
+      "typologies": [
+        "domed",
+        "courtyard"
+      ],
+      "materials": [
+        "masonry",
+        "glass"
+      ],
+      "elements": [
+        "gold_domes",
+        "minarets",
+        "prayer_hall"
+      ]
+    },
+    "heritage": {
+      "relationship": "national_monument",
+      "designation_name": "Singapore National Monument",
+      "inscription_year": 1975,
+      "unesco_property_id": null,
+      "source_ids": [
+        "SRC-SIN-NLB"
+      ],
+      "context_note": null
+    },
+    "content": {
+      "en": {
+        "intro": "An emblematic Singapore mosque, first built in the nineteenth century and reconstructed with distinctive golden domes in the twentieth century.",
+        "history": "The first mosque dates from 1824–1826; institutional sources report different completion dates for its successor.",
+        "architecture": "The present mosque is noted for its golden domes, minarets and Indo-Saracenic architectural influences."
+      },
+      "fr": {
+        "intro": "Une mosquée emblématique de Singapour, fondée au XIXe siècle puis reconstruite au XXe siècle avec ses coupoles dorées caractéristiques.",
+        "history": "La première mosquée date de 1824–1826 ; les sources institutionnelles divergent sur l’achèvement de l’édifice qui l’a remplacée.",
+        "architecture": "Le bâtiment actuel se distingue par ses coupoles dorées, ses minarets et des influences indo-sarrasines."
+      },
+      "ar": {
+        "intro": "مسجد بارز في سنغافورة، أُنشئ أول مرة في القرن التاسع عشر وأُعيد بناؤه في القرن العشرين بقبابه الذهبية المميزة.",
+        "history": "يعود المسجد الأول إلى 1824–1826، وتختلف المصادر المؤسسية في تاريخ اكتمال المبنى الذي حل محله.",
+        "architecture": "يتميز المبنى الحالي بالقباب الذهبية والمآذن وتأثيرات العمارة الهندية الساراسينية."
+      }
+    },
+    "claims": [
+      {
+        "id": "CLM-P17-01",
+        "statement_en": "The first mosque was built between 1824 and 1826.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-SIN-NLB",
+          "SRC-SIN-NHB"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P17-02",
+        "statement_en": "The National Museum collection dates the completion of the replacement to 1928.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-SIN-NHB"
+        ],
+        "review_note": "Source-specific assertion; not the uncontested final date."
+      },
+      {
+        "id": "CLM-P17-03",
+        "statement_en": "The National Library Board dates final completion of the replacement to 1932.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-SIN-NLB"
+        ],
+        "review_note": "Source-specific assertion; must coexist with the 1928 statement."
+      },
+      {
+        "id": "CLM-P17-04",
+        "statement_en": "The surviving mosque features Indo-Saracenic architectural influence and golden domes.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-SIN-NLB"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P17-05",
+        "statement_en": "Sultan Mosque is a national monument designated in 1975.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-SIN-NLB"
+        ],
+        "review_note": null
+      }
+    ],
+    "source_ids": [
+      "SRC-SIN-NLB",
+      "SRC-SIN-NHB"
+    ],
+    "media": [],
+    "model_3d": null,
+    "editorial": {
+      "approval": "editorial_core_fact_checked",
+      "approved_scope": "limited_verified_core",
+      "scholarly_peer_review": "pending",
+      "fr_ar_translation_review": "pending",
+      "approved_on": "2026-10-27",
+      "image_license_status": "no_reuse_cleared",
+      "model_validation": "not_applicable",
+      "visitor_access": "not_verified"
+    },
+    "provenance": {
+      "legacy_id": "MOS-0017",
+      "legacy_dataset": "Phase 6 crosswalk"
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "id": "MOS-0102",
+    "slug": "mosque-amr-ibn-al-as",
+    "names": {
+      "en": "Mosque of Amr ibn al-As",
+      "fr": "Mosquée d’Amr ibn al-As",
+      "ar": "مسجد عمرو بن العاص",
+      "original": {
+        "value": "مسجد عمرو بن العاص",
+        "language": "ar"
+      }
+    },
+    "location": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "country_iso2": "EG",
+      "coordinates": null
+    },
+    "chronology": {
+      "foundation": {
+        "display": "641 CE",
+        "start_year": 641,
+        "end_year": 641,
+        "precision": "year",
+        "certainty": "documented",
+        "event_type": "foundation",
+        "source_ids": [
+          "SRC-EGY-MTA"
+        ],
+        "sort_year": 641
+      },
+      "present_structure": {
+        "display": "Principally 20th-century reconstruction",
+        "start_year": null,
+        "end_year": null,
+        "precision": "century",
+        "certainty": "documented",
+        "event_type": "complete_reconstruction",
+        "source_ids": [
+          "SRC-EGY-MTA"
+        ],
+        "sort_year": null
+      },
+      "phases": [
+        {
+          "id": "PH-MOS-0102-01",
+          "event_type": "foundation",
+          "display_date": "641",
+          "start_year": 641,
+          "end_year": 641,
+          "description_en": "Founded as the congregational mosque of the newly established Fustat.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-EGY-MTA"
+          ]
+        },
+        {
+          "id": "PH-MOS-0102-02",
+          "event_type": "reconstruction",
+          "display_date": "20th century",
+          "start_year": null,
+          "end_year": null,
+          "description_en": "The building now standing primarily reflects twentieth-century reconstruction.",
+          "certainty": "documented",
+          "source_ids": [
+            "SRC-EGY-MTA"
+          ]
+        }
+      ]
+    },
+    "architectural_profile": {
+      "traditions": [
+        "early_islamic",
+        "modern_reconstruction"
+      ],
+      "typologies": [
+        "hypostyle",
+        "congregational"
+      ],
+      "materials": [
+        "masonry"
+      ],
+      "elements": [
+        "courtyard",
+        "arcades"
+      ]
+    },
+    "heritage": {
+      "relationship": "not_verified",
+      "designation_name": null,
+      "inscription_year": null,
+      "unesco_property_id": null,
+      "source_ids": [],
+      "context_note": "No UNESCO or equivalent designation is asserted in this pilot."
+    },
+    "content": {
+      "en": {
+        "intro": "Founded in 641 in Fustat, this historic congregational mosque survives largely through later reconstruction.",
+        "history": "The Egyptian heritage authority dates the original foundation to 641 and identifies the visible structure principally as twentieth-century reconstruction.",
+        "architecture": "Courtyard and arcaded prayer spaces evoke early Islamic spatial traditions, though the present fabric is much later."
+      },
+      "fr": {
+        "intro": "Fondée en 641 à Fostat, cette mosquée historique nous est parvenue essentiellement sous la forme de reconstructions ultérieures.",
+        "history": "L’autorité égyptienne du patrimoine situe la fondation en 641 et attribue l’essentiel de l’édifice actuel à une reconstruction du XXe siècle.",
+        "architecture": "La cour et les galeries de prière évoquent des traditions spatiales de l’islam ancien, malgré une structure actuelle bien plus récente."
+      },
+      "ar": {
+        "intro": "تأسس هذا المسجد التاريخي في الفسطاط سنة 641، ويعكس المبنى القائم اليوم عمليات إعادة بناء لاحقة.",
+        "history": "تؤرخ الجهة المصرية المختصة تأسيس المسجد بسنة 641، وتصف المبنى القائم بأنه إعادة بناء تعود أساساً إلى القرن العشرين.",
+        "architecture": "يستحضر الصحن وأروقة الصلاة التقاليد المكانية الإسلامية المبكرة، على الرغم من حداثة معظم البنية القائمة."
+      }
+    },
+    "claims": [
+      {
+        "id": "CLM-P102-01",
+        "statement_en": "The mosque was founded in 641 under Amr ibn al-As.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-EGY-MTA"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P102-02",
+        "statement_en": "Little of the original building survives; its present form chiefly reflects twentieth-century reconstruction.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-EGY-MTA"
+        ],
+        "review_note": null
+      },
+      {
+        "id": "CLM-P102-03",
+        "statement_en": "The monument is situated in historic Fustat, now part of Cairo.",
+        "certainty": "documented",
+        "source_ids": [
+          "SRC-EGY-MTA"
+        ],
+        "review_note": null
+      }
+    ],
+    "source_ids": [
+      "SRC-EGY-MTA"
+    ],
+    "media": [],
+    "model_3d": null,
+    "editorial": {
+      "approval": "editorial_core_fact_checked",
+      "approved_scope": "limited_verified_core",
+      "scholarly_peer_review": "pending",
+      "fr_ar_translation_review": "pending",
+      "approved_on": "2026-10-27",
+      "image_license_status": "no_reuse_cleared",
+      "model_validation": "not_applicable",
+      "visitor_access": "not_verified"
+    },
+    "provenance": {
+      "legacy_id": null,
+      "legacy_dataset": "Phase 7 research addition"
+    }
+  }
+]

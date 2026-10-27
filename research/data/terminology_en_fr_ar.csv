@@ -1,0 +1,43 @@
+﻿term_id,en,fr,ar,definition_en,review_status
+mosque,Mosque,Mosquée,مسجد,A Muslim place of congregational or daily prayer.,editorial_harmonized_native_review_pending
+congregational_mosque,Congregational mosque,Mosquée du vendredi,مسجد جامع,A mosque intended for communal Friday worship.,editorial_harmonized_native_review_pending
+foundation_date,Foundation date,Date de fondation,تاريخ التأسيس,"Earliest documented establishment of the mosque institution or building, not the age of an earlier site.",editorial_harmonized_native_review_pending
+present_structure,Present structure,Structure architecturale actuelle,البنية المعمارية الحالية,"Principal surviving architectural fabric, which may postdate the foundation.",editorial_harmonized_native_review_pending
+construction_phase,Construction phase,Phase de construction,مرحلة بناء,"An identifiable building, extension or reconstruction event.",editorial_harmonized_native_review_pending
+reconstruction,Reconstruction,Reconstruction,إعادة البناء,"Building again after destruction, demolition or extensive alteration.",editorial_harmonized_native_review_pending
+restoration,Restoration,Restauration,ترميم,Work undertaken to conserve or repair architectural heritage.,editorial_harmonized_native_review_pending
+extension,Extension,Agrandissement,توسعة,Addition to the size or footprint of an existing mosque.,editorial_harmonized_native_review_pending
+change_of_use,Change of use,Changement d’usage,تغيير الاستعمال,Change in the function of the historical building.,editorial_harmonized_native_review_pending
+multi_period,Multi-period structure,Structure pluristratifiée,بنية متعددة المراحل التاريخية,Surviving building incorporates major fabric from multiple eras.,editorial_harmonized_native_review_pending
+dating_uncertain,Dating uncertain,Datation incertaine,تأريخ غير مؤكد,Historical date is not sufficiently established.,editorial_harmonized_native_review_pending
+disputed,Disputed,Objet de divergences,محل خلاف,Credible sources give materially different statements.,editorial_harmonized_native_review_pending
+verified,Documented,Documenté,موثّق,Claim supported by identified and applicable evidence.,editorial_harmonized_native_review_pending
+hypostyle,Hypostyle hall,Salle hypostyle,قاعة متعددة الأعمدة,Hall in which the roof is supported by numerous columns.,editorial_harmonized_native_review_pending
+prayer_hall,Prayer hall,Salle de prière,قاعة الصلاة,Space used for communal prayer.,editorial_harmonized_native_review_pending
+sahn,Sahn (courtyard),Sahn (cour),صحن,Open courtyard within a mosque complex.,editorial_harmonized_native_review_pending
+riwaq,Riwaq (arcade),Riwaq (portique),رواق,Roofed passage or portico opening onto a court or space.,editorial_harmonized_native_review_pending
+iwan,Iwan,Iwan,إيوان,Vaulted rectangular hall open on one side.,editorial_harmonized_native_review_pending
+four_iwan_plan,Four-iwan plan,Plan à quatre iwans,تخطيط بأربعة إيوانات,Courtyard arrangement with four iwans.,editorial_harmonized_native_review_pending
+mihrab,Mihrab,Mihrab,محراب,Niche or architectural feature marking the qibla direction.,editorial_harmonized_native_review_pending
+minbar,Minbar,Minbar,منبر,Pulpit or raised structure for Friday sermons.,editorial_harmonized_native_review_pending
+minaret,Minaret,Minaret,مئذنة,"Tower associated with the mosque, historically linked with the call to prayer.",editorial_harmonized_native_review_pending
+dome,Dome,Coupole,قبة,Curved vaulted roof form.,editorial_harmonized_native_review_pending
+qibla,Qibla,Qibla,قبلة,Direction of prayer towards the Kaaba in Mecca.,editorial_harmonized_native_review_pending
+maqsura,Maqsura,Maqsura,مقصورة,"Historically designated, sometimes screened, space within certain mosques.",editorial_harmonized_native_review_pending
+muqarnas,Muqarnas,Muqarnas,مقرنصات,Three-dimensional cellular ornamental vaulting.,editorial_harmonized_native_review_pending
+zellij,Zellij,Zellige,زليج,Geometric cut-tile mosaic decoration especially associated with North Africa.,editorial_harmonized_native_review_pending
+stucco,Stucco,Stuc,جص زخرفي,Applied plaster used for architectural surfaces and carving.,editorial_harmonized_native_review_pending
+earthen_architecture,Earthen architecture,Architecture de terre,العمارة الترابية,Construction using earth-based materials.,editorial_harmonized_native_review_pending
+patron,Patron,Commanditaire,راعي البناء,Person or institution commissioning or financing a building.,editorial_harmonized_native_review_pending
+architectural_plan,Architectural plan,Plan architectural,مخطط معماري,Measured or interpretive drawing of spatial arrangement.,editorial_harmonized_native_review_pending
+elevation,Elevation,Élévation,مسقط واجهة,Orthographic drawing of a vertical façade.,editorial_harmonized_native_review_pending
+section,Section,Coupe,مقطع,Cutaway architectural drawing showing internal geometry.,editorial_harmonized_native_review_pending
+viewer_3d,3D model viewer,Visionneuse de modèle 3D,عارض النماذج ثلاثية الأبعاد,Interactive browser display of an administrator-supplied three-dimensional model.,editorial_harmonized_native_review_pending
+measured_model,Measured 3D model,Modèle 3D relevé,نموذج ثلاثي الأبعاد موثّق بالقياسات,Model whose scale and elements derive from verifiable measurements.,editorial_harmonized_native_review_pending
+hypothetical_reconstruction,Hypothetical reconstruction,Restitution hypothétique,إعادة تصور افتراضية,Visual interpretation not fully documented by direct evidence.,editorial_harmonized_native_review_pending
+visitor_view,Visitor View,Vue Visiteur,وضع الزائر,Accessible presentation of verified core content.,editorial_harmonized_native_review_pending
+research_view,Research View,Vue Recherche,وضع البحث العلمي,Detailed dossier with phase chronology and claim-level citations.,editorial_harmonized_native_review_pending
+world_heritage_property,World Heritage property,Bien du patrimoine mondial,ممتلك مدرج في قائمة التراث العالمي,UNESCO inscribed property; does not automatically mean every component has a separate inscription.,editorial_harmonized_native_review_pending
+tentative_list,Tentative List,Liste indicative,القائمة الإرشادية,"State nomination planning list, not World Heritage inscription.",editorial_harmonized_native_review_pending
+provenance,Provenance,Provenance,المصدر والأصل,"Documented origin and authorship of a claim, image or model.",editorial_harmonized_native_review_pending
+publication_ready,Publication-ready,Prêt à publier,جاهز للنشر,Record has passed the defined approval checks for the specified publication scope.,editorial_harmonized_native_review_pending

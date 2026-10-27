@@ -1,0 +1,102 @@
+[
+  {
+    "id": "SRC-KAI-UNESCO",
+    "institution": "UNESCO World Heritage Centre",
+    "title": "Kairouan",
+    "url": "https://whc.unesco.org/en/list/499",
+    "source_type": "heritage_record",
+    "accessed_on": "2026-10-27",
+    "rights_for_images": "not_assessed",
+    "full_text_review": "webpage_content_consulted"
+  },
+  {
+    "id": "SRC-KAI-SMART",
+    "institution": "Smarthistory / Colette Apelian",
+    "title": "The Great Mosque of Kairouan",
+    "url": "https://smarthistory.org/the-great-mosque-of-kairouan",
+    "source_type": "scholarly_explanation",
+    "accessed_on": "2026-10-27",
+    "rights_for_images": "not_assessed",
+    "full_text_review": "webpage_content_consulted"
+  },
+  {
+    "id": "SRC-COR-OFFICIAL",
+    "institution": "Cabildo Catedral de Córdoba",
+    "title": "The history — Mosque–Cathedral of Córdoba",
+    "url": "https://www.mezquita-catedraldecordoba.es/en/descubre-el-monumento/la-historia/",
+    "source_type": "official_monument_chronology",
+    "accessed_on": "2026-10-27",
+    "rights_for_images": "not_assessed",
+    "full_text_review": "webpage_content_consulted"
+  },
+  {
+    "id": "SRC-COR-UNESCO",
+    "institution": "UNESCO World Heritage Centre",
+    "title": "Historic Centre of Cordoba",
+    "url": "https://whc.unesco.org/en/list/313",
+    "source_type": "heritage_record",
+    "accessed_on": "2026-10-27",
+    "rights_for_images": "not_assessed",
+    "full_text_review": "webpage_content_consulted"
+  },
+  {
+    "id": "SRC-ISF-UNESCO",
+    "institution": "UNESCO World Heritage Centre",
+    "title": "Masjed-e Jāmé of Isfahan",
+    "url": "https://whc.unesco.org/en/list/1397",
+    "source_type": "heritage_record",
+    "accessed_on": "2026-10-27",
+    "rights_for_images": "not_assessed",
+    "full_text_review": "webpage_content_consulted"
+  },
+  {
+    "id": "SRC-DJE-UNESCO",
+    "institution": "UNESCO World Heritage Centre",
+    "title": "Old Towns of Djenné",
+    "url": "https://whc.unesco.org/en/list/116",
+    "source_type": "heritage_record",
+    "accessed_on": "2026-10-27",
+    "rights_for_images": "not_assessed",
+    "full_text_review": "webpage_content_consulted"
+  },
+  {
+    "id": "SRC-DJE-SMART",
+    "institution": "Smarthistory / Elisa Dainese",
+    "title": "Great Mosque of Djenné",
+    "url": "https://smarthistory.org/great-mosque-of-djenne/",
+    "source_type": "scholarly_explanation",
+    "accessed_on": "2026-10-27",
+    "rights_for_images": "not_assessed",
+    "full_text_review": "webpage_content_consulted"
+  },
+  {
+    "id": "SRC-SIN-NLB",
+    "institution": "National Library Board Singapore",
+    "title": "Sultan Mosque — Singapore Infopedia",
+    "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=12ffc367-4687-4c85-beb6-b5779a42983f",
+    "source_type": "national_reference",
+    "accessed_on": "2026-10-27",
+    "rights_for_images": "not_assessed",
+    "full_text_review": "webpage_content_consulted"
+  },
+  {
+    "id": "SRC-SIN-NHB",
+    "institution": "National Heritage Board Singapore / National Museum",
+    "title": "The Sultan Mosque, collection 1194747",
+    "url": "https://www.roots.gov.sg/collection-landing/listing/1194747",
+    "source_type": "heritage_collection",
+    "accessed_on": "2026-10-27",
+    "rights_for_images": "not_assessed",
+    "full_text_review": "webpage_content_consulted"
+  },
+  {
+    "id": "SRC-EGY-MTA",
+    "institution": "Egyptian Ministry of Tourism and Antiquities",
+    "title": "The Mosque of ‘Amr ibn al-‘As",
+    "url": "https://egymonuments.gov.eg/en/monuments/the-mosque-of-amr-ibn-al-as/",
+    "source_type": "national_heritage_record",
+    "accessed_on": "2026-10-27",
+    "rights_for_images": "not_assessed",
+    "full_text_review": "webpage_content_consulted"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "bundle_version": "1.0.0",
+  "created_on": "2026-10-27",
+  "project": "MOSQUE ATLAS 3D",
+  "content_scope": "documented-core-pilot",
+  "pilot_records": 6,
+  "claims": 24,
+  "terms": 42,
+  "institutional_and_specialist_sources": 10,
+  "legacy_provisional_records": 100,
+  "new_record_ids": [
+    "MOS-0101",
+    "MOS-0102"
+  ],
+  "scholarly_peer_review": "pending",
+  "media_reuse_cleared": 0,
+  "verified_3d_models": 0,
+  "files": [
+    {
+      "relative_path": "README.md",
+      "bytes": 5269
+    },
+    {
+      "relative_path": "data/catalog_index_102.json",
+      "bytes": 2892
+    },
+    {
+      "relative_path": "data/legacy_provisional_100.json",
+      "bytes": 157130
+    },
+    {
+      "relative_path": "data/pilot_verified_core_6.json",
+      "bytes": 39214
+    },
+    {
+      "relative_path": "data/sources.json",
+      "bytes": 3736
+    },
+    {
+      "relative_path": "data/terminology_en_fr_ar.csv",
+      "bytes": 7104
+    },
+    {
+      "relative_path": "data/terminology_en_fr_ar.json",
+      "bytes": 11746
+    },
+    {
+      "relative_path": "docs/CODEX_HANDOFF_PROMPT.md",
+      "bytes": 4796
+    },
+    {
+      "relative_path": "docs/EDITORIAL_RELEASE_POLICY.md",
+      "bytes": 3890
+    },
+    {
+      "relative_path": "docs/PILOT_ENCYCLOPEDIA.md",
+      "bytes": 16656
+    },
+    {
+      "relative_path": "docs/RESEARCH_DECISIONS.md",
+      "bytes": 2962
+    },
+    {
+      "relative_path": "schema/contracts.ts",
+      "bytes": 3499
+    },
+    {
+      "relative_path": "schema/mosque-record.v1.schema.json",
+      "bytes": 15188
+    },
+    {
+      "relative_path": "schema/relational_postgres.sql",
+      "bytes": 3980
+    },
+    {
+      "relative_path": "validation/validate.py",
+      "bytes": 4910
+    }
+  ]
+}
