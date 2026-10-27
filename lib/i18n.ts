@@ -1,0 +1,96 @@
+import type { Locale } from "@/lib/types";
+
+export const locales: Locale[] = ["en", "fr", "ar"];
+export const isLocale = (value: string): value is Locale => locales.includes(value as Locale);
+
+const dictionaries = {
+  en: {
+    siteName: "MOSQUE ATLAS 3D",
+    nav: { atlas: "Atlas", timeline: "Chronology", map: "World map", compare: "Compare", glossary: "Glossary", sources: "Sources" },
+    documented: "Documented core record",
+    limited: "Limited, source-checked pilot — not a peer-reviewed dossier",
+    founded: "Founded",
+    present: "Present structure",
+    explore: "Explore the record",
+    unknown: "Not verified",
+    emptyMedia: "No licensed image is available for this record.",
+    emptyModel: "3D model not yet supplied",
+    emptyModelNote: "This viewer will activate only after an administrator uploads a reviewed GLB/glTF model with provenance, license, represented phase and scale metadata.",
+    visitor: "Visitor view",
+    research: "Research view",
+    history: "Historical reading",
+    architecture: "Architectural character",
+    evidence: "Evidence register",
+    phases: "Construction chronology",
+    heritage: "Heritage relationship",
+    limitations: "Research limits",
+    fallback: "Detailed phase and claim text is currently available in English; translation review is pending.",
+    originalName: "Original name",
+    source: "source",
+    sourcesLabel: "sources",
+    candidate: "Research candidate",
+    menu: "Menu",
+  },
+  fr: {
+    siteName: "MOSQUE ATLAS 3D",
+    nav: { atlas: "Atlas", timeline: "Chronologie", map: "Carte mondiale", compare: "Comparer", glossary: "Glossaire", sources: "Sources" },
+    documented: "Notice documentaire vérifiée",
+    limited: "Pilote limité et vérifié par les sources — non évalué par les pairs",
+    founded: "Fondation",
+    present: "Structure actuelle",
+    explore: "Consulter la notice",
+    unknown: "Non vérifié",
+    emptyMedia: "Aucune image sous licence n’est disponible pour cette notice.",
+    emptyModel: "Modèle 3D non encore fourni",
+    emptyModelNote: "La visionneuse ne sera activée qu’après le dépôt d’un modèle GLB/glTF contrôlé, accompagné de sa provenance, licence, phase représentée et échelle.",
+    visitor: "Vue Visiteur",
+    research: "Vue Recherche",
+    history: "Lecture historique",
+    architecture: "Caractère architectural",
+    evidence: "Registre des preuves",
+    phases: "Chronologie de construction",
+    heritage: "Relation patrimoniale",
+    limitations: "Limites de la recherche",
+    fallback: "Le détail des phases et des affirmations est actuellement disponible en anglais ; la révision linguistique reste en attente.",
+    originalName: "Nom original",
+    source: "source",
+    sourcesLabel: "sources",
+    candidate: "Candidat de recherche",
+    menu: "Menu",
+  },
+  ar: {
+    siteName: "أطلس المساجد ثلاثي الأبعاد",
+    nav: { atlas: "الأطلس", timeline: "التسلسل الزمني", map: "خريطة العالم", compare: "المقارنة", glossary: "المصطلحات", sources: "المصادر" },
+    documented: "بطاقة موثقة المعلومات الأساسية",
+    limited: "إصدار تجريبي محدود موثق بالمصادر — وليس ملفاً محكّماً",
+    founded: "تاريخ التأسيس",
+    present: "البنية الحالية",
+    explore: "استكشف البطاقة",
+    unknown: "غير موثّق",
+    emptyMedia: "لا تتوفر صورة مرخّصة لهذه البطاقة.",
+    emptyModel: "لم يُقدَّم النموذج ثلاثي الأبعاد بعد",
+    emptyModelNote: "لن يُفعّل العارض إلا بعد رفع نموذج GLB/glTF مُراجع مع بيانات المصدر والترخيص والمرحلة التاريخية والمقياس.",
+    visitor: "وضع الزائر",
+    research: "وضع البحث العلمي",
+    history: "القراءة التاريخية",
+    architecture: "الطابع المعماري",
+    evidence: "سجل الأدلة",
+    phases: "التسلسل الزمني للبناء",
+    heritage: "العلاقة التراثية",
+    limitations: "حدود البحث",
+    fallback: "تفاصيل المراحل والادعاءات متاحة حالياً بالإنجليزية، وما زالت المراجعة اللغوية قيد الانتظار.",
+    originalName: "الاسم الأصلي",
+    source: "مصدر",
+    sourcesLabel: "مصادر",
+    candidate: "مرشح للبحث",
+    menu: "القائمة",
+  },
+} as const;
+
+export function t(locale: Locale) {
+  return dictionaries[locale];
+}
+
+export function localeName(locale: Locale) {
+  return { en: "English", fr: "Français", ar: "العربية" }[locale];
+}
