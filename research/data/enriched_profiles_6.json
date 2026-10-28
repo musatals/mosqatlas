@@ -1,0 +1,581 @@
+{
+  "schema_version": "1.0.0",
+  "editorial_status": "source_linked_editorial_synthesis_pending_scholarly_and_translation_review",
+  "profiles": [
+    {
+      "record_id": "MOS-0001",
+      "names": {
+        "en": "Great Mosque of Kairouan",
+        "fr": "Grande Mosquée de Kairouan",
+        "ar": "الجامع الكبير بالقيروان"
+      },
+      "sections": [
+        {
+          "id": "MOS-0001-01",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "A city, a sanctuary, and an early Islamic landmark",
+              "body": "Kairouan was founded in 670 and became an influential religious and cultural centre in the Maghreb. Its Great Mosque is inseparable from that urban history, but the date of the city and the foundation of the mosque should not be mistaken for the construction date of every visible wall. The complex bears witness to repeated building campaigns, most decisively those of the Aghlabid period."
+            },
+            "fr": {
+              "title": "Une cité, un sanctuaire et un jalon de l’Islam ancien",
+              "body": "Fondée en 670, Kairouan devint un grand centre religieux et culturel du Maghreb. La Grande Mosquée s’inscrit dans cette histoire urbaine, mais la date de fondation ne doit pas être attribuée indistinctement à toutes les maçonneries visibles. Les campagnes de construction successives, notamment aghlabides, expliquent l’aspect du monument conservé."
+            },
+            "ar": {
+              "title": "مدينة ومَعْلم ديني من بدايات الإسلام",
+              "body": "تأسست القيروان سنة 670 وأصبحت مركزاً دينياً وثقافياً مهماً في بلاد المغرب. ويرتبط جامعها الكبير بتاريخ المدينة، لكن تاريخ التأسيس لا يعني أن جميع أجزائه القائمة تعود إلى تلك السنة. فقد شهد المبنى حملات بناء متعاقبة، وكانت تدخلات العصر الأغلبي حاسمة في تشكيل صورته الباقية."
+            }
+          },
+          "source_ids": [
+            "SRC-KAI-UNESCO",
+            "SRC-KAI-SMART"
+          ]
+        },
+        {
+          "id": "MOS-0001-02",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "Reading the courtyard and prayer hall",
+              "body": "Begin with the contrast between the open courtyard and the covered hypostyle sanctuary: these spaces organize gathering, circulation and prayer differently. The square, tiered minaret is a major landmark, while the columns and arcades of the hall form a rhythmic interior. UNESCO also highlights marble and porphyry columns. Observe how reused or differently sourced materials contribute to the building’s layered character."
+            },
+            "fr": {
+              "title": "Lire la cour et la salle de prière",
+              "body": "Le contraste entre la cour ouverte et la salle de prière hypostyle permet de comprendre l’organisation des circulations et des rassemblements. Le minaret carré à plusieurs niveaux domine l’ensemble, tandis que les colonnes et les arcades rythment l’espace intérieur. L’UNESCO souligne notamment les colonnes en marbre et en porphyre, témoins de la diversité matérielle du monument."
+            },
+            "ar": {
+              "title": "قراءة الصحن وقاعة الصلاة",
+              "body": "يساعد التباين بين الصحن المفتوح وبيت الصلاة متعدد الأعمدة على فهم تنظيم الحركة والتجمع والصلاة. وتبرز المئذنة المربعة متعددة المستويات، بينما تشكل الأعمدة والعقود إيقاعاً داخل قاعة الصلاة. وتذكر اليونسكو أعمدة الرخام والحجر السماقي، وهي عناصر تكشف تنوع المواد وتراكم مراحل البناء."
+            }
+          },
+          "source_ids": [
+            "SRC-KAI-UNESCO",
+            "SRC-KAI-SMART"
+          ]
+        },
+        {
+          "id": "MOS-0001-03",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "World Heritage: part of Kairouan",
+              "body": "The Great Mosque is one of the defining monuments within the UNESCO World Heritage property of Kairouan, inscribed in 1988. Its heritage value therefore belongs both to the individual architecture and to the historic city that surrounds it. The atlas records this as inclusion in an inscribed urban property—not as an invented separate World Heritage inscription for the mosque."
+            },
+            "fr": {
+              "title": "Patrimoine mondial : au sein de Kairouan",
+              "body": "La Grande Mosquée est l’un des monuments majeurs du bien « Kairouan », inscrit au patrimoine mondial en 1988. Sa valeur patrimoniale tient à la fois à son architecture et au tissu historique de la ville. L’atlas précise donc qu’elle appartient à un bien urbain inscrit, sans lui attribuer une inscription autonome inexistante."
+            },
+            "ar": {
+              "title": "التراث العالمي: ضمن مدينة القيروان",
+              "body": "الجامع الكبير من أبرز معالم مدينة القيروان المدرجة على قائمة التراث العالمي سنة 1988. وتنبع قيمته من عمارته ومن علاقته بالنسيج التاريخي المحيط به. لذلك يسجل الأطلس انتماءه إلى موقع مديني مدرج، ولا ينسب إلى الجامع إدراجاً مستقلاً غير موثق."
+            }
+          },
+          "source_ids": [
+            "SRC-KAI-UNESCO"
+          ]
+        },
+        {
+          "id": "MOS-0001-04",
+          "visibility": "research_only",
+          "content": {
+            "en": {
+              "title": "Questions for architectural documentation",
+              "body": "An exhaustive architectural inventory would distinguish early foundations from ninth-century masonry, identify later repaired or replaced components and reconcile published dimensions with measured plans. Until that work is undertaken, no precise unsourced measurements or reconstruction of lost original fabric should be treated as established."
+            },
+            "fr": {
+              "title": "Questions à approfondir",
+              "body": "Un inventaire exhaustif devrait distinguer les fondations anciennes des maçonneries du IXe siècle, repérer les réparations ultérieures et confronter les dimensions publiées aux relevés. Dans cette attente, aucune mesure précise dépourvue de source ni restitution d’éléments disparus ne doit être présentée comme certaine."
+            },
+            "ar": {
+              "title": "مسائل تستدعي بحثاً إضافياً",
+              "body": "يتطلب الجرد المعماري الدقيق فصل مراحل التأسيس عن عمارة القرن التاسع، وتحديد الأجزاء التي أُصلحت أو استُبدلت لاحقاً، ومقارنة القياسات المنشورة بالمخططات المساحية. ولا يجوز اعتماد أبعاد غير موثقة أو إعادة بناء افتراضية للأجزاء المفقودة على أنها حقائق ثابتة."
+            }
+          },
+          "source_ids": [
+            "SRC-KAI-UNESCO",
+            "SRC-KAI-SMART"
+          ]
+        }
+      ]
+    },
+    {
+      "record_id": "MOS-0004",
+      "names": {
+        "en": "Mosque–Cathedral of Córdoba",
+        "fr": "Mosquée-cathédrale de Cordoue",
+        "ar": "مسجد قرطبة الجامع – الكاتدرائية"
+      },
+      "sections": [
+        {
+          "id": "MOS-0004-01",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "A monument built through successive transformations",
+              "body": "The original mosque was established under Abd al-Rahman I in the late eighth century. Expansions under later rulers enlarged and reshaped the complex before its Christian conversion in 1236. Today it functions as a cathedral, while retaining extraordinary elements of the Islamic building. Its history is neither a single uninterrupted construction project nor a single unchanged architectural identity."
+            },
+            "fr": {
+              "title": "Un monument façonné par des transformations successives",
+              "body": "La mosquée initiale fut fondée sous Abd al-Rahman Ier à la fin du VIIIe siècle. Des agrandissements successifs en transformèrent l’emprise, avant sa conversion en cathédrale en 1236. L’édifice est aujourd’hui une cathédrale qui conserve des parties majeures de l’architecture islamique. Son histoire ne se résume ni à une seule campagne de travaux ni à une identité architecturale immuable."
+            },
+            "ar": {
+              "title": "معلم تشكّل عبر تحولات متعاقبة",
+              "body": "أُنشئ المسجد الأول في عهد عبد الرحمن الداخل أواخر القرن الثامن، ثم توسع على مراحل في عهود لاحقة قبل تحويله إلى كاتدرائية سنة 1236. وهو اليوم كاتدرائية تحتفظ بعناصر بارزة من عمارتها الإسلامية. لذلك لا يمكن اختزال تاريخه في مشروع بناء واحد أو هوية معمارية ثابتة عبر العصور."
+            }
+          },
+          "source_ids": [
+            "SRC-COR-OFFICIAL",
+            "SRC-COR-UNESCO"
+          ]
+        },
+        {
+          "id": "MOS-0004-02",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "The rhythm of the double arches",
+              "body": "The celebrated arcades combine superposed arches, producing a distinctive sense of depth and repetition across the former prayer hall. The visitor can read differing building phases in changes to the hall, the monumental mihrab zone and later cathedral interventions. The official monument chronology is especially useful for assigning architectural changes to the rulers and periods that commissioned them."
+            },
+            "fr": {
+              "title": "Le rythme des arcs superposés",
+              "body": "Les arcades célèbres associent des arcs superposés et créent un effet remarquable de profondeur et de répétition dans l’ancienne salle de prière. Les différences entre les espaces, la zone du mihrab et les parties de la cathédrale révèlent plusieurs étapes. La chronologie officielle aide à relier ces interventions aux commanditaires et aux périodes concernés."
+            },
+            "ar": {
+              "title": "إيقاع العقود المزدوجة",
+              "body": "تجمع الأروقة المشهورة عقوداً متراكبة تمنح قاعة الصلاة القديمة إحساساً مميزاً بالعمق والتكرار. ويمكن تتبع مراحل البناء عبر اختلاف أجزاء القاعة ومنطقة المحراب والإضافات الكاتدرائية اللاحقة. ويساعد التسلسل الزمني الرسمي في ربط التحولات المعمارية بالفترات والحكام الذين أمروا بها."
+            }
+          },
+          "source_ids": [
+            "SRC-COR-OFFICIAL",
+            "SRC-COR-UNESCO"
+          ]
+        },
+        {
+          "id": "MOS-0004-03",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "An evolving World Heritage property",
+              "body": "The Great Mosque was the focus of the 1984 World Heritage inscription. In 1994 the property was enlarged to cover a broader historic area of Córdoba. For accurate heritage interpretation, the encyclopedia records the relationship between the monument and this extended property rather than treating the two inscriptions as independent listings of identical scope."
+            },
+            "fr": {
+              "title": "Bien du patrimoine mondial et extension historique",
+              "body": "La Grande Mosquée fut au centre de l’inscription au patrimoine mondial de 1984. Le bien a été étendu en 1994 à un ensemble plus vaste du centre historique de Cordoue. La notice distingue ces étapes et le périmètre concerné, sans les présenter comme deux inscriptions indépendantes portant sur un bien identique."
+            },
+            "ar": {
+              "title": "موقع تراث عالمي شهد توسعاً في حدوده",
+              "body": "كان الجامع الكبير محور الإدراج في قائمة التراث العالمي سنة 1984، ثم وُسعت حدود الموقع سنة 1994 لتشمل جزءاً أكبر من المركز التاريخي لقرطبة. ويوضح الأطلس هذه العلاقة وتغير نطاق الحماية، بدلاً من التعامل مع الحدثين بوصفهما إدراجين مستقلين للموقع نفسه."
+            }
+          },
+          "source_ids": [
+            "SRC-COR-UNESCO"
+          ]
+        },
+        {
+          "id": "MOS-0004-04",
+          "visibility": "research_only",
+          "content": {
+            "en": {
+              "title": "Do not merge the building phases",
+              "body": "A model of the building standing today and a hypothetical model of its tenth-century mosque are different historical objects. Architectural comparison should distinguish the initial hall, successive Umayyad extensions, the post-1236 Christian use and Renaissance works. The project must not infer the appearance of lost details from a present-day photograph alone."
+            },
+            "fr": {
+              "title": "Ne pas fusionner les phases historiques",
+              "body": "Un modèle de l’édifice actuel et une restitution hypothétique de la mosquée au Xe siècle correspondent à deux objets historiques distincts. Il faut différencier salle initiale, agrandissements omeyyades, usage chrétien après 1236 et travaux de la Renaissance. Une photo contemporaine ne suffit pas à reconstituer les parties disparues."
+            },
+            "ar": {
+              "title": "ضرورة الفصل بين مراحل البناء",
+              "body": "النموذج الذي يعرض المبنى القائم اليوم يختلف عن إعادة تصور افتراضية للمسجد في القرن العاشر. وينبغي التمييز بين القاعة الأولى والتوسعات الأموية والاستعمال المسيحي بعد 1236 وأعمال عصر النهضة. ولا تكفي صورة معاصرة لإثبات شكل العناصر المعمارية المفقودة."
+            }
+          },
+          "source_ids": [
+            "SRC-COR-OFFICIAL",
+            "SRC-COR-UNESCO"
+          ]
+        }
+      ]
+    },
+    {
+      "record_id": "MOS-0003",
+      "names": {
+        "en": "Jameh Mosque of Isfahan",
+        "fr": "Mosquée du vendredi d’Ispahan",
+        "ar": "الجامع الكبير بأصفهان"
+      },
+      "sections": [
+        {
+          "id": "MOS-0003-01",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "A building that records many centuries",
+              "body": "The Jameh Mosque of Isfahan is best understood as a sequence of structures and transformations rather than the product of a single campaign. UNESCO describes its evolution across roughly twelve centuries, beginning with early Islamic architecture and continuing through later dynasties. This makes construction phases and individual elements more informative than an oversimplified single “built in” date."
+            },
+            "fr": {
+              "title": "Un édifice qui retrace plusieurs siècles",
+              "body": "La mosquée du vendredi d’Ispahan s’interprète comme une succession de constructions et de transformations, plutôt que comme le résultat d’un chantier unique. L’UNESCO décrit une évolution sur environ douze siècles, de la période islamique ancienne aux dynasties ultérieures. La datation des composantes est donc plus pertinente qu’une unique date de construction."
+            },
+            "ar": {
+              "title": "مبنى يوثق قروناً من التحول",
+              "body": "ينبغي فهم الجامع الكبير بأصفهان بوصفه سلسلة من مراحل البناء والتحول، لا ثمرة ورشة واحدة. وتصف اليونسكو تطوره عبر نحو اثني عشر قرناً، من العمارة الإسلامية المبكرة إلى العصور اللاحقة. لذلك تكون تواريخ العناصر والمراحل أكثر دلالة من تاريخ بناء مفرد مبسط."
+            }
+          },
+          "source_ids": [
+            "SRC-ISF-UNESCO"
+          ]
+        },
+        {
+          "id": "MOS-0003-02",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "The four-iwan courtyard and Seljuk domes",
+              "body": "A visitor can organize the monument by its four iwans, which frame the courtyard, and by its major domed spaces. UNESCO identifies the four-iwan arrangement and ribbed double-shell domes as influential architectural innovations. Brick construction and decorative layers reveal different periods; visual similarity between elements does not mean that they were erected at the same moment."
+            },
+            "fr": {
+              "title": "La cour à quatre iwans et les coupoles seldjoukides",
+              "body": "Les quatre iwans organisent la lecture du vaste espace de cour, tandis que les coupoles marquent plusieurs lieux importants. L’UNESCO souligne le rôle innovant du plan à quatre iwans et des coupoles nervurées à double coque. Les maçonneries de brique et les décors superposés témoignent de plusieurs périodes : leur ressemblance visuelle ne prouve pas leur simultanéité."
+            },
+            "ar": {
+              "title": "الصحن ذو الإيوانات الأربعة والقباب السلجوقية",
+              "body": "تنظم الإيوانات الأربعة قراءة الصحن، وتبرز القباب فراغات معمارية مهمة. وتؤكد اليونسكو الدور المبتكر لتخطيط الإيوانات الأربعة والقباب المضلعة مزدوجة القشرة. وتكشف زخارف الآجر والكسوات المتعاقبة عن أزمنة مختلفة؛ فالتشابه البصري لا يعني بالضرورة وحدة تاريخ البناء."
+            }
+          },
+          "source_ids": [
+            "SRC-ISF-UNESCO"
+          ]
+        },
+        {
+          "id": "MOS-0003-03",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "Individually inscribed on the World Heritage List",
+              "body": "Unlike mosques protected only as components of an historic city, the Masjed-e Jāmé of Isfahan was inscribed as its own UNESCO World Heritage property in 2012. Its value includes both individual architectural innovations and the exceptional accumulation of changes across time. The atlas records that specific legal heritage relationship."
+            },
+            "fr": {
+              "title": "Inscription individuelle au patrimoine mondial",
+              "body": "Contrairement aux mosquées uniquement comprises dans un centre historique protégé, Masjed-e Jāmé d’Ispahan a été inscrite en tant que bien du patrimoine mondial à part entière en 2012. Sa valeur conjugue innovations architecturales et accumulation exceptionnelle de transformations. L’atlas conserve cette distinction juridique."
+            },
+            "ar": {
+              "title": "إدراج مستقل على قائمة التراث العالمي",
+              "body": "أُدرج الجامع الكبير بأصفهان سنة 2012 بوصفه موقعاً مستقلاً على قائمة التراث العالمي، وليس مجرد عنصر ضمن مدينة تاريخية مدرجة. وتشمل قيمته الابتكارات المعمارية وتراكم التحولات على مر الزمن. ويسجل الأطلس هذا الوضع التراثي المستقل بوضوح."
+            }
+          },
+          "source_ids": [
+            "SRC-ISF-UNESCO"
+          ]
+        },
+        {
+          "id": "MOS-0003-04",
+          "visibility": "research_only",
+          "content": {
+            "en": {
+              "title": "Attributing phases without false precision",
+              "body": "The available heritage description establishes the overall sequence but does not date every wall, brick course or decorative surface in this pilot. Individual components require architectural surveys and specialist bibliography. The foundation year remains outside strict exact-year sorting until adequate evidence is attached to the specific dating claim."
+            },
+            "fr": {
+              "title": "Attribuer les phases sans précision factice",
+              "body": "La description patrimoniale permet d’établir le cadre général, mais ne date pas dans ce pilote chaque mur, assise de brique ou surface décorée. Des relevés et une bibliographie spécialisée sont nécessaires. L’année de fondation ne doit pas entrer dans un classement strict tant qu’elle n’est pas étayée individuellement."
+            },
+            "ar": {
+              "title": "تأريخ المراحل دون دقة موهومة",
+              "body": "توضح المادة التراثية التسلسل العام، لكنها لا تؤرخ في هذه النسخة كل جدار أو مدماك آجري أو سطح زخرفي. ويستلزم ذلك مسوحات معمارية ومراجع متخصصة. ولا ينبغي إدراج سنة تأسيس دقيقة في الترتيب الزمني قبل توثيقها بأدلة خاصة بها."
+            }
+          },
+          "source_ids": [
+            "SRC-ISF-UNESCO"
+          ]
+        }
+      ]
+    },
+    {
+      "record_id": "MOS-0101",
+      "names": {
+        "en": "Great Mosque of Djenné",
+        "fr": "Grande Mosquée de Djenné",
+        "ar": "الجامع الكبير في جينيه"
+      },
+      "sections": [
+        {
+          "id": "MOS-0101-01",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "Historic Djenné and its earthen landmark",
+              "body": "The mosque stands within a historic town that was closely connected to regional exchange and the spread of Islamic learning. The earlier mosque is often linked to a thirteenth-century tradition, but that date should not be presented as established architectural evidence. The monumental form seen today belongs to the reconstruction of 1906–1907."
+            },
+            "fr": {
+              "title": "Djenné, cité historique et patrimoine de terre",
+              "body": "La mosquée appartient à une ville historique marquée par les échanges régionaux et la diffusion des savoirs islamiques. Son origine est traditionnellement associée au XIIIe siècle, mais cette datation ne constitue pas une preuve architecturale certaine. La silhouette monumentale visible aujourd’hui résulte de la reconstruction de 1906–1907."
+            },
+            "ar": {
+              "title": "جينيه التاريخية ومعلمها الطيني",
+              "body": "يقع الجامع داخل مدينة تاريخية ارتبطت بالتجارة الإقليمية وانتشار المعارف الإسلامية. ويُنسب أصل المسجد تقليدياً إلى القرن الثالث عشر، لكن هذا التاريخ لا يمثل دليلاً معمارياً قاطعاً. أما الشكل الضخم القائم اليوم فيعود إلى إعادة البناء بين 1906 و1907."
+            }
+          },
+          "source_ids": [
+            "SRC-DJE-UNESCO",
+            "SRC-DJE-SMART"
+          ]
+        },
+        {
+          "id": "MOS-0101-02",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "Earthen masonry and timber supports",
+              "body": "Djenné is a key case study in Sudano-Sahelian earthen building. Monumental buttresses, a strongly articulated façade and projecting wooden elements known as toron give the building its recognizable appearance. These are not merely decorative motifs: the earthen architecture relies on periodic care and renewal. Its material history cannot be represented honestly by a supposedly permanent, unchanging 3D surface."
+            },
+            "fr": {
+              "title": "Terre bâtie et pièces de bois saillantes",
+              "body": "Djenné constitue un exemple majeur de l’architecture de terre soudano-sahélienne. Contreforts, façade fortement articulée et pièces de bois saillantes, appelées toron, dessinent la silhouette caractéristique du monument. Il ne s’agit pas seulement d’ornements : l’architecture de terre suppose un entretien régulier. Un modèle 3D figé ne saurait représenter à lui seul cette dynamique."
+            },
+            "ar": {
+              "title": "العمارة الطينية والأخشاب البارزة",
+              "body": "يمثل جامع جينيه نموذجاً مهماً للعمارة الطينية السودانية الساحلية. وتبرز الدعامات والواجهة المنحوتة والأخشاب النافرة المعروفة باسم «تورون» في تشكيل مظهره المميز. وليست هذه العناصر مجرد زخارف، إذ تتطلب العمارة الطينية صيانة وتجديداً دوريين. ولا يعكس نموذج ثلاثي الأبعاد ثابت وحده هذا التاريخ المادي المتغير."
+            }
+          },
+          "source_ids": [
+            "SRC-DJE-SMART",
+            "SRC-DJE-UNESCO"
+          ]
+        },
+        {
+          "id": "MOS-0101-03",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "Heritage at the scale of a town",
+              "body": "The mosque forms part of the UNESCO World Heritage property Old Towns of Djenné, not a separate World Heritage inscription. Conservation must consider the surrounding town, earthen building knowledge, water and climate exposure, and continuing community practices. The property has been on the List of World Heritage in Danger since 2016; this status applies to the listed urban ensemble."
+            },
+            "fr": {
+              "title": "Un patrimoine à l’échelle d’une ville",
+              "body": "La mosquée fait partie du bien UNESCO « Villes anciennes de Djenné » et ne bénéficie pas d’une inscription distincte. La conservation implique le tissu urbain, les savoir-faire de la terre, l’exposition au climat et les pratiques communautaires. Le bien est inscrit sur la Liste du patrimoine mondial en péril depuis 2016 ; ce statut concerne l’ensemble urbain."
+            },
+            "ar": {
+              "title": "تراث على مستوى مدينة كاملة",
+              "body": "الجامع جزء من موقع «مدن جينيه القديمة» المدرج لدى اليونسكو، وليس موقعاً مدرجاً بصورة مستقلة. وتشمل المحافظة عليه المحيط العمراني ومهارات البناء بالطين وتأثير المناخ والممارسات الجماعية. وقد أُدرج الموقع الحضري على قائمة التراث العالمي المهدد بالخطر منذ 2016، وهو وضع يخص الموقع ككل."
+            }
+          },
+          "source_ids": [
+            "SRC-DJE-UNESCO"
+          ]
+        },
+        {
+          "id": "MOS-0101-04",
+          "visibility": "research_only",
+          "content": {
+            "en": {
+              "title": "Tradition, reconstruction and representation",
+              "body": "A future model should state whether it represents the current 1907-era monument, its regularly renewed earthen surface, or an explicitly hypothetical earlier mosque. The traditional foundation narrative, the nineteenth-century replacement and the twentieth-century rebuilding must remain separate events. Sources do not justify an exact reconstruction of the earliest mosque in this pilot."
+            },
+            "fr": {
+              "title": "Tradition, reconstruction et représentation",
+              "body": "Le futur modèle devra préciser s’il représente l’édifice issu de 1907, son enduit régulièrement renouvelé ou une restitution hypothétique d’un bâtiment antérieur. La tradition relative à la fondation, le remplacement au XIXe siècle et la reconstruction du XXe siècle restent trois événements distincts. Les sources du pilote ne permettent pas une restitution exacte du premier édifice."
+            },
+            "ar": {
+              "title": "الرواية التقليدية وإعادة البناء والتمثيل",
+              "body": "ينبغي لأي نموذج مستقبلي أن يوضح ما إذا كان يمثل المبنى الناتج عن إعادة بناء 1907 أو سطحه الطيني المتجدد دورياً أو تصوراً افتراضياً لمسجد أقدم. ويجب الفصل بين رواية التأسيس التقليدية والبناء البديل في القرن التاسع عشر وإعادة البناء في القرن العشرين. ولا تتيح مصادر هذه النسخة تصوراً دقيقاً للمسجد الأول."
+            }
+          },
+          "source_ids": [
+            "SRC-DJE-SMART",
+            "SRC-DJE-UNESCO"
+          ]
+        }
+      ]
+    },
+    {
+      "record_id": "MOS-0017",
+      "names": {
+        "en": "Sultan Mosque",
+        "fr": "Mosquée du Sultan",
+        "ar": "مسجد السلطان"
+      },
+      "sections": [
+        {
+          "id": "MOS-0017-01",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "Two mosques in one institutional history",
+              "body": "Sultan Mosque originated in the 1820s within the historic Kampong Glam district. The mosque that stands today is a later replacement, rather than the unchanged nineteenth-century building. This difference is central to the atlas: an institution can retain its name, congregation and historic role even when the material building is reconstructed on a different architectural plan."
+            },
+            "fr": {
+              "title": "Deux édifices dans une même histoire",
+              "body": "La mosquée du Sultan fut fondée dans les années 1820 dans le quartier historique de Kampong Glam. L’édifice visible aujourd’hui a remplacé le premier bâtiment : il ne s’agit pas de la construction du XIXe siècle conservée à l’identique. Une institution peut garder son nom et son rôle alors que son architecture matérielle change profondément."
+            },
+            "ar": {
+              "title": "مبنيان في تاريخ مؤسسة واحدة",
+              "body": "نشأ مسجد السلطان في عشرينيات القرن التاسع عشر ضمن حي كامبونغ غلام التاريخي. أما المبنى القائم اليوم فهو بديل لاحق وليس المبنى الأول محفوظاً على حاله. وتوضح هذه الحالة أن المؤسسة قد تحتفظ باسمها ووظيفتها التاريخية، بينما تتغير عمارتها المادية وتخطيطها بصورة كبيرة."
+            }
+          },
+          "source_ids": [
+            "SRC-SIN-NLB",
+            "SRC-SIN-NHB"
+          ]
+        },
+        {
+          "id": "MOS-0017-02",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "From a tiered roof to golden domes",
+              "body": "The earlier mosque belonged to a regional tradition of tiered roof forms. The surviving replacement is generally described as Indo-Saracenic in character, with prominent golden domes and ornamental details. Rather than presenting either form as timeless “Singapore mosque architecture”, the atlas distinguishes the styles and their building dates, and places the changes within the urban history of Kampong Glam."
+            },
+            "fr": {
+              "title": "Du toit étagé aux coupoles dorées",
+              "body": "La première mosquée présentait un toit étagé caractéristique de traditions régionales. L’édifice reconstruit relève principalement d’un vocabulaire indo-sarrasin, avec des coupoles dorées et des ornements marqués. L’atlas distingue donc les deux formes, leurs périodes et leur insertion dans l’histoire urbaine de Kampong Glam, au lieu de les confondre en un style intemporel."
+            },
+            "ar": {
+              "title": "من السقف المتدرج إلى القباب الذهبية",
+              "body": "تميز المسجد الأول بسقف متدرج يرتبط بتقاليد معمارية إقليمية، بينما يغلب على المبنى البديل طابع هندي ساراسيني مع قباب ذهبية وزخارف بارزة. ويعرض الأطلس اختلاف الأسلوبين وتواريخ بنائهما وصلتهما بتاريخ حي كامبونغ غلام، دون تصويرهما كأنهما شكل معماري ثابت خارج الزمن."
+            }
+          },
+          "source_ids": [
+            "SRC-SIN-NLB"
+          ]
+        },
+        {
+          "id": "MOS-0017-03",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "A protected national monument",
+              "body": "Sultan Mosque is recognized as a Singapore National Monument. That is a national heritage designation, not a UNESCO World Heritage inscription for the mosque. The significance of the site includes its architectural change, its neighborhood setting and its continuing communal use; each should be treated distinctly in the research dossier."
+            },
+            "fr": {
+              "title": "Un monument national protégé",
+              "body": "La mosquée du Sultan est reconnue comme monument national de Singapour. Cette protection nationale ne signifie pas qu’elle soit individuellement inscrite au patrimoine mondial de l’UNESCO. Son intérêt réunit transformation architecturale, contexte du quartier et continuité communautaire : la notice doit exposer ces dimensions séparément."
+            },
+            "ar": {
+              "title": "معلم وطني محمي",
+              "body": "يتمتع مسجد السلطان بوضع معلم وطني محمي في سنغافورة. وهذه صفة تراثية وطنية لا تعني إدراج المسجد منفرداً على قائمة اليونسكو للتراث العالمي. وتشمل أهميته التحول المعماري والسياق الحضري واستمرار استعماله الجماعي، ويجب توضيح كل جانب بصورة مستقلة."
+            }
+          },
+          "source_ids": [
+            "SRC-SIN-NLB"
+          ]
+        },
+        {
+          "id": "MOS-0017-04",
+          "visibility": "research_only",
+          "content": {
+            "en": {
+              "title": "Two reported completion dates",
+              "body": "The source registry preserves distinct institutional statements dating the replacement to 1928 and 1932. These are not averaged or silently reconciled. The next research step is to examine construction records to determine whether the dates refer to different moments—such as usable completion, inauguration, or final finishing—before selecting an exact present-structure date."
+            },
+            "fr": {
+              "title": "Deux dates d’achèvement publiées",
+              "body": "Le registre conserve deux datations institutionnelles, 1928 et 1932, pour le remplacement du bâtiment. Elles ne sont ni moyennées ni réconciliées sans preuve. Il faut consulter des archives de chantier pour établir si elles concernent des étapes différentes — achèvement utilisable, inauguration ou fin des travaux — avant de retenir une année exacte."
+            },
+            "ar": {
+              "title": "تاريخان منشوران للاكتمال",
+              "body": "يحفظ سجل المصادر روايتين مؤسسيتين تربطان اكتمال المبنى البديل بعامي 1928 و1932، ولا يجمع بينهما حسابياً أو يحسم الخلاف دون دليل. وتتطلب الخطوة التالية مراجعة وثائق البناء لمعرفة ما إذا كان التاريخان يشيران إلى مراحل مختلفة، مثل افتتاح المبنى أو انتهاء تشطيباته، قبل اعتماد سنة نهائية دقيقة."
+            }
+          },
+          "source_ids": [
+            "SRC-SIN-NLB",
+            "SRC-SIN-NHB"
+          ]
+        }
+      ]
+    },
+    {
+      "record_id": "MOS-0102",
+      "names": {
+        "en": "Mosque of Amr ibn al-As",
+        "fr": "Mosquée d’Amr ibn al-As",
+        "ar": "مسجد عمرو بن العاص"
+      },
+      "sections": [
+        {
+          "id": "MOS-0102-01",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "Fustat and an early congregational mosque",
+              "body": "Established in 641 at Fustat, the Mosque of Amr ibn al-As is linked to the establishment of Egypt’s first Islamic capital. The Egyptian heritage authority describes its early role as a communal meeting and prayer space. The historical foundation is well distinguished from the architecture surviving today, which underwent many changes and reflects twentieth-century reconstruction."
+            },
+            "fr": {
+              "title": "Fostat et sa première mosquée communautaire",
+              "body": "Fondée en 641 à Fostat, la mosquée d’Amr ibn al-As est liée à la naissance de la première capitale islamique d’Égypte. L’autorité patrimoniale égyptienne rappelle son rôle initial de lieu de prière et de rassemblement. Il faut distinguer cette fondation de l’architecture aujourd’hui conservée, issue de transformations et d’une reconstruction au XXe siècle."
+            },
+            "ar": {
+              "title": "الفسطاط وبدايات المسجد الجامع",
+              "body": "تأسس مسجد عمرو بن العاص سنة 641 في الفسطاط، ويرتبط بنشأة أول عاصمة إسلامية في مصر. وتعرض الجهة المصرية المختصة دوره الأول مكاناً للصلاة والتجمع. ويجب الفصل بين تاريخ تأسيسه المبكر وبين العمارة القائمة التي شهدت تحولات كثيرة وأُعيد بناؤها أساساً في القرن العشرين."
+            }
+          },
+          "source_ids": [
+            "SRC-EGY-MTA"
+          ]
+        },
+        {
+          "id": "MOS-0102-02",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "The meaning of a reconstructed hypostyle space",
+              "body": "Arcaded prayer areas and a courtyard preserve an intelligible spatial vocabulary associated with early congregational mosques. But the architectural experience is not the same as direct survival of seventh-century masonry. The monument is especially useful for teaching the difference between a continuity of place and function, and continuity of original building material."
+            },
+            "fr": {
+              "title": "Le sens d’une salle hypostyle reconstruite",
+              "body": "La cour et les espaces de prière à arcades conservent un vocabulaire spatial associé aux premières mosquées communautaires. Cette lisibilité ne signifie pas que les maçonneries du VIIe siècle soient encore présentes. Le monument permet de distinguer la continuité d’un lieu et d’une fonction de la conservation matérielle d’un bâtiment d’origine."
+            },
+            "ar": {
+              "title": "دلالة الفضاء المعاد بناؤه متعدد الأعمدة",
+              "body": "يحافظ الصحن وأروقة الصلاة على تنظيم مكاني مفهوم يرتبط بالمساجد الجامعة الأولى، لكن ذلك لا يعني بقاء الجدران الأصلية من القرن السابع. وتمثل هذه الحالة مثالاً تعليمياً واضحاً للتمييز بين استمرار المكان والوظيفة وبين استمرار مواد المبنى الأولى."
+            }
+          },
+          "source_ids": [
+            "SRC-EGY-MTA"
+          ]
+        },
+        {
+          "id": "MOS-0102-03",
+          "visibility": "visitor_and_research",
+          "content": {
+            "en": {
+              "title": "National documentation and present use",
+              "body": "Egypt’s Ministry of Tourism and Antiquities supplies an institutional history of the mosque and its location in Old Cairo. The atlas uses that documentation to explain the early foundation and later reconstruction. It does not infer a separate UNESCO inscription or publish architectural measurements that the reviewed pilot sources have not established."
+            },
+            "fr": {
+              "title": "Documentation nationale et usage actuel",
+              "body": "Le ministère égyptien du Tourisme et des Antiquités documente l’histoire de la mosquée et sa localisation dans le Vieux Caire. L’atlas s’appuie sur cette source pour distinguer fondation et reconstruction. Il n’en déduit ni inscription individuelle à l’UNESCO ni dimensions non établies dans les sources examinées."
+            },
+            "ar": {
+              "title": "التوثيق الوطني والاستعمال الحالي",
+              "body": "يوثق الموقع الرسمي لوزارة السياحة والآثار المصرية تاريخ المسجد وموقعه في القاهرة القديمة. ويعتمد الأطلس على هذه المادة للفصل بين التأسيس وإعادة البناء، دون افتراض إدراج مستقل في اليونسكو أو نشر قياسات معمارية لم تثبتها المصادر التي خضعت للمراجعة."
+            }
+          },
+          "source_ids": [
+            "SRC-EGY-MTA"
+          ]
+        },
+        {
+          "id": "MOS-0102-04",
+          "visibility": "research_only",
+          "content": {
+            "en": {
+              "title": "Foundation is not fabric",
+              "body": "A 3D model based on photographs of the present mosque would document a largely modern reconstruction, not an exact seventh-century mosque. Any visualization of the first building would require separate historical and archaeological evidence, and should be labeled hypothetical wherever original elements are unknown."
+            },
+            "fr": {
+              "title": "La fondation ne date pas le bâti actuel",
+              "body": "Un modèle 3D fondé sur des vues actuelles décrirait essentiellement un édifice reconstruit à l’époque moderne, et non une restitution exacte du VIIe siècle. Une visualisation du premier bâtiment demanderait d’autres preuves historiques et archéologiques et devrait signaler les éléments hypothétiques."
+            },
+            "ar": {
+              "title": "تاريخ التأسيس لا يؤرخ الجدران القائمة",
+              "body": "سيعرض النموذج ثلاثي الأبعاد المستند إلى صور المسجد الحالي مبنى أُعيد تشييده في العصر الحديث إلى حد كبير، وليس نسخة دقيقة لمسجد القرن السابع. أما تصور البناء الأول فيتطلب أدلة تاريخية وأثرية إضافية، مع وسم العناصر غير الموثقة بأنها افتراضية."
+            }
+          },
+          "source_ids": [
+            "SRC-EGY-MTA"
+          ]
+        }
+      ]
+    }
+  ]
+}
