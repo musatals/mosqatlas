@@ -22,7 +22,11 @@ export function MosqueCard({ record, locale, index = 0 }: { record: MosqueRecord
         <div><dt>{copy.founded}</dt><dd>{record.chronology.foundation.display}</dd></div>
         <div><dt>{copy.present}</dt><dd>{record.chronology.present_structure.display}</dd></div>
       </dl>
-      <Link href={`/${locale}/mosques/${record.slug}`} className="text-link">{copy.explore}<ArrowIcon className="inline-arrow" /></Link>
+      <div className="card-evidence" aria-label={`${record.claims.length} ${copy.claims}; ${record.source_ids.length} ${copy.verifiedSources}`}>
+        <span><strong>{record.claims.length}</strong>{copy.claims}</span>
+        <span><strong>{record.source_ids.length}</strong>{copy.verifiedSources}</span>
+      </div>
+      <Link href={`/${locale}/mosques/${record.slug}`} className="text-link card-link" aria-label={`${copy.explore}: ${record.names[locale]}`}>{copy.explore}<ArrowIcon className="inline-arrow" /></Link>
     </div>
   </article>;
 }
