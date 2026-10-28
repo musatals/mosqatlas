@@ -99,3 +99,22 @@ export interface Term {
   definition_en: string;
   review_status: string;
 }
+
+export interface EnrichedProfileSection {
+  id: string;
+  visibility: "visitor_and_research" | "research_only";
+  content: Record<Locale, { title: string; body: string }>;
+  source_ids: string[];
+}
+
+export interface EnrichedProfile {
+  record_id: string;
+  names: Record<Locale, string>;
+  sections: EnrichedProfileSection[];
+}
+
+export interface EnrichedProfileCollection {
+  schema_version: "1.0.0";
+  editorial_status: "source_linked_editorial_synthesis_pending_scholarly_and_translation_review";
+  profiles: EnrichedProfile[];
+}

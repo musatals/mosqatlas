@@ -8,10 +8,13 @@ except ImportError:
 ROOT=Path(__file__).resolve().parent.parent
 read=lambda x: json.loads((ROOT/x).read_text(encoding='utf-8'))
 schema=read('schema/mosque-record.v1.schema.json')
+enriched_schema=read('schema/enriched-profile.v1.schema.json')
 rows=read('data/pilot_verified_core_6.json'); sources=read('data/sources.json'); terms=read('data/terminology_en_fr_ar.json')
+enriched=read('data/enriched_profiles_6.json')
 legacy=read('data/legacy_provisional_100.json'); index=read('data/catalog_index_102.json')
 errs=[]
 check=Draft202012Validator(schema,format_checker=FormatChecker())
+enriched_check=Draft202012Validator(enriched_schema,format_checker=FormatChecker())
 srcids={s['id'] for s in sources}; ids=[r['id'] for r in rows]; allids={r['mosque_id'] for r in legacy}
 if len(rows)!=6:errs.append(f'expected six pilots, got {len(rows)}')
 if len(legacy)!=100 or len(allids)!=100:errs.append('legacy must have 100 unique IDs')
@@ -21,6 +24,25 @@ if len(sources)!=len(srcids):errs.append('source IDs duplicate')
 if set(index['legacy_ids'])!=allids or index['count']!=102:errs.append('catalog index mismatch')
 if not {'MOS-0101','MOS-0102'}.issubset(set(ids)):errs.append('new records absent')
 if {'MOS-0101','MOS-0102'} & allids:errs.append('new IDs collided with legacy')
+for e in enriched_check.iter_errors(enriched):errs.append(f"enriched profiles schema {list(e.absolute_path)}: {e.message}")
+profiles={p['record_id']:p for p in enriched['profiles']}
+if set(profiles)!=set(ids):errs.append('enriched profile IDs must exactly match the six verified core records')
+if sum(len(p['sections']) for p in profiles.values())!=24:errs.append('expected 24 enriched profile sections')
+for rid,p in profiles.items():
+ vis=[s['visibility'] for s in p['sections']]
+ if vis.count('visitor_and_research')!=3 or vis.count('research_only')!=1:errs.append(f'{rid} enriched visibility boundary must be three visitor sections and one research note')
+ row=next((r for r in rows if r['id']==rid),None)
+ if row and any(p['names'][lang]!=row['names'][lang] for lang in ('en','fr','ar')):errs.append(f'{rid} enriched names do not match the core record')
+ for section in p['sections']:
+  for sid in section['source_ids']:
+   if sid not in srcids:errs.append(f"{section['id']} dangling source {sid}")
+  for lang in ('fr','ar'):
+   combined=' '.join(section['content'][lang].values())
+   arabic=sum('\u0600'<=c<='\u06FF' for c in combined)
+   letters=sum(c.isalpha() for c in combined)
+   proportion=arabic/max(1,letters)
+   if lang=='ar' and proportion < 0.55:errs.append(f"{section['id']} Arabic enrichment appears to be in wrong language")
+   if lang=='fr' and proportion > 0.2:errs.append(f"{section['id']} French enrichment appears to be in Arabic")
 for ix,r in enumerate(rows):
  for e in check.iter_errors(r): errs.append(f"{r['id']} schema {list(e.absolute_path)}: {e.message}")
  if r['provenance']['legacy_id']:
@@ -60,5 +82,5 @@ if errs:
  print('FAIL',len(errs),'errors')
  for e in errs:print(' -',e)
  sys.exit(1)
-print(f'PASS — 6 source-verified core records, {sum(len(r["claims"]) for r in rows)} claims, {len(sources)} source entries, {len(terms)} EN/FR/AR terms, 100 legacy candidates and two noncolliding new IDs.')
+print(f'PASS — 6 source-verified core records, 24 enriched profile sections, {sum(len(r["claims"]) for r in rows)} claims, {len(sources)} source entries, {len(terms)} EN/FR/AR terms, 100 legacy candidates and two noncolliding new IDs.')
 print('NOTE — does not replace human historical peer review, translation proofreading, URL liveness checking, image licensing or model validation.')

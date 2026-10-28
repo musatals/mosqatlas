@@ -33,6 +33,9 @@ const dictionaries = {
     skip: "Skip to main content",
     claims: "evidence-linked claims",
     verifiedSources: "verified sources",
+    profile: "Source-linked profile",
+    profileIntro: "A deeper architectural and historical reading, with every section tied to the reviewed source register.",
+    researchNote: "Research note",
   },
   fr: {
     siteName: "MOSQUE ATLAS 3D",
@@ -63,6 +66,9 @@ const dictionaries = {
     skip: "Aller au contenu principal",
     claims: "affirmations documentées",
     verifiedSources: "sources vérifiées",
+    profile: "Profil documenté par les sources",
+    profileIntro: "Une lecture architecturale et historique approfondie, dont chaque section renvoie au registre des sources examinées.",
+    researchNote: "Note de recherche",
   },
   ar: {
     siteName: "أطلس المساجد ثلاثي الأبعاد",
@@ -93,6 +99,9 @@ const dictionaries = {
     skip: "انتقل إلى المحتوى الرئيسي",
     claims: "ادعاءات مرتبطة بالأدلة",
     verifiedSources: "مصادر موثقة",
+    profile: "ملف مرتبط بالمصادر",
+    profileIntro: "قراءة معمارية وتاريخية موسعة، ترتبط كل فقرة فيها بسجل المصادر التي خضعت للمراجعة.",
+    researchNote: "ملاحظة بحثية",
   },
 } as const;
 

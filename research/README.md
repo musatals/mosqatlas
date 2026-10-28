@@ -13,11 +13,13 @@ This distinction applies to the two new records outside the existing 100 candida
 ## Package contents
 
 - `data/pilot_verified_core_6.json` — the 6 verified-core records with multilingual narratives, chronological phases, 24 evidence-linked claims, heritage relationships, image/model empty states.
+- `data/enriched_profiles_6.json` — 24 multilingual, source-linked editorial sections layered onto the six verified records: three visitor/research sections and one research-only note per record.
 - `data/sources.json` — 10 consulted institutional/scholarly web sources with permanent IDs.
 - `data/terminology_en_fr_ar.json` and `.csv` — 42 harmonized interface and architectural terms (editorially normalized; native-language copyedit pending).
 - `data/legacy_provisional_100.json` — exactly the earlier 100 source-data records preserved unchanged, **NOT** publication-ready, and not conforming to the new strict verified-core schema.
 - `data/catalog_index_102.json` — separate ledger for the 100 provisional entries and two new noncolliding IDs.
 - `schema/mosque-record.v1.schema.json` — JSON Schema Draft 2020-12, normative for verified record validation.
+- `schema/enriched-profile.v1.schema.json` — JSON Schema Draft 2020-12 for the additional source-linked profile layer.
 - `schema/contracts.ts` — TypeScript developer types mirroring the JSON contract.
 - `schema/relational_postgres.sql` — normalized SQL example; not executed against any database.
 - `validation/validate.py` — schema and cross-reference checks using Python `jsonschema`.
@@ -32,7 +34,7 @@ python -m pip install jsonschema
 python validation/validate.py
 ```
 
-Expected result: six core records, 24 source-linked claims, ten sources, 42 trilingual terms, original 100 candidates, and two additional noncolliding IDs. This validation is structural and referential, not a substitute for academic review.
+Expected result: six core records, 24 enriched profile sections, 24 source-linked claims, ten sources, 42 trilingual terms, original 100 candidates, and two additional noncolliding IDs. This validation is structural and referential, not a substitute for academic review.
 
 ## Historical dating (important)
 
