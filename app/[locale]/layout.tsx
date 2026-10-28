@@ -8,5 +8,5 @@ export function generateStaticParams() { return locales.map((locale) => ({ local
 export default async function LocaleLayout({ children, params }: { children: React.ReactNode; params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   if (!isLocale(locale)) notFound();
-  return <div dir={locale === "ar" ? "rtl" : "ltr"} lang={locale} className={`locale-${locale}`}><SiteHeader locale={locale}/>{children}<SiteFooter locale={locale}/></div>;
+  return <div dir={locale === "ar" ? "rtl" : "ltr"} lang={locale} className={`locale-${locale}`}><SiteHeader locale={locale}/><div id="main-content" tabIndex={-1}>{children}</div><SiteFooter locale={locale}/></div>;
 }

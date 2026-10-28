@@ -30,6 +30,9 @@ const dictionaries = {
     sourcesLabel: "sources",
     candidate: "Research candidate",
     menu: "Menu",
+    skip: "Skip to main content",
+    claims: "evidence-linked claims",
+    verifiedSources: "verified sources",
   },
   fr: {
     siteName: "MOSQUE ATLAS 3D",
@@ -57,6 +60,9 @@ const dictionaries = {
     sourcesLabel: "sources",
     candidate: "Candidat de recherche",
     menu: "Menu",
+    skip: "Aller au contenu principal",
+    claims: "affirmations documentées",
+    verifiedSources: "sources vérifiées",
   },
   ar: {
     siteName: "أطلس المساجد ثلاثي الأبعاد",
@@ -84,6 +90,9 @@ const dictionaries = {
     sourcesLabel: "مصادر",
     candidate: "مرشح للبحث",
     menu: "القائمة",
+    skip: "انتقل إلى المحتوى الرئيسي",
+    claims: "ادعاءات مرتبطة بالأدلة",
+    verifiedSources: "مصادر موثقة",
   },
 } as const;
 
